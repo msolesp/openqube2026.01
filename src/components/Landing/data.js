@@ -328,7 +328,7 @@ export default [
                                 props: { ...historic_charts['historic_salary_medians'], xDataKey: 'publish_date', yDataKeys: ['Pesos Argentinos Constantes Ajustados Por Inflación'], currency: 'AR$' },
                                 caption: <p>Serie histórica de salarios en ARS constantes basada en encuestas anteriores de sysarmy.</p>,
                                 description: <p>
-                                    Este gráfico muestra los salarios ajustados a pesos constantes de enero de 2025, es decir, considerando la inflación acumulada en cada período.
+                                    Este gráfico muestra los salarios ajustados a pesos constantes de julio de 2025, es decir, considerando la inflación acumulada en cada período.
                                     Esto permite comparar el poder adquisitivo real de los salarios a lo largo del tiempo, eliminando el efecto de la inflación.
                                     Un aumento en los valores indica una mejora en el poder adquisitivo real, mientras que una disminución refleja que los salarios, aunque nominalmente puedan haber crecido, no han acompañado el ritmo de la inflación, resultando en una pérdida de capacidad de compra. Para más detalle, ver la <a href="#Metodologia">Metodología</a>.
                                     <br></br>
@@ -1450,6 +1450,8 @@ export default [
                     <li><a href="https://sueldos.openqube.io/encuesta-sueldos-2022.01/" target="_blank" rel="noopener noreferrer">Resultados de la encuesta de sueldos 2022.01 </a></li>
                     <li><a href="https://sueldos.openqube.io/encuesta-sueldos-2023.01/" target="_blank" rel="noopener noreferrer">Resultados de la encuesta de sueldos 2023.01 </a></li>
                     <li><a href="https://sueldos.openqube.io/encuesta-sueldos-2023.02/" target="_blank" rel="noopener noreferrer">Resultados de la encuesta de sueldos 2023.02 </a></li>
+                    <li><a href="https://sueldos.openqube.io/encuesta-sueldos-2024.01/" target="_blank" rel="noopener noreferrer">Resultados de la encuesta de sueldos 2024.01 </a></li>
+                    <li><a href="https://sueldos.openqube.io/encuesta-sueldos-2025.01/" target="_blank" rel="noopener noreferrer">Resultados de la encuesta de sueldos 2025.01 </a></li>
                 </ul>
             </div>
         )
