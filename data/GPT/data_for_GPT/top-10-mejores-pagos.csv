@@ -1,0 +1,13 @@
+﻿Rol,Cantidad,Promedio,p50,Porcentaje de sueldos dolarizados
+VP / C-Level,8,9588125.0,8875000.0,0.62
+QA / Tester,6,7781269.0,8000000.0,0.83
+Consultant,6,8235440.0,7920000.0,0.67
+Manager / Director,70,8193199.0,7850000.0,0.47
+Developer,86,8237701.0,7804470.5,0.88
+Data Engineer,8,7737362.0,7626250.0,1.0
+Infosec,8,7406166.0,7279722.0,0.38
+SysAdmin / DevOps / SRE,34,7696234.0,7257000.0,0.62
+Data Scientist,9,7853387.0,7150000.0,0.89
+Technical Leader,57,7705736.0,7000000.0,0.47
+Architect,22,7300459.0,7000000.0,0.59
+BI Analyst / Data Analyst,5,7111680.0,6945000.0,0.2

@@ -1,0 +1,129 @@
+﻿Rol,Seniority,Dolarización,p0,p25,p50,p75,p100,Confianza
+Administrativo,Senior,No dolarizado,615000.0,997500.0,1380000.0,1762500.0,2145000.0,Baja
+Architect,Junior,No dolarizado,2359752.24,2377876.12,2396000.0,5098000.0,7800000.0,Baja
+Architect,Semi-Senior,Dolarizado,2300000.0,2750000.0,3200000.0,4200000.0,5200000.0,Baja
+Architect,Semi-Senior,No dolarizado,4200000.0,4350000.0,4922958.0,5484437.0,5600000.0,Alta
+Architect,Senior,Dolarizado,2000000.0,4700000.0,6000000.0,7000000.0,9000000.0,Alta
+Architect,Senior,No dolarizado,1900000.0,3500000.0,4500000.0,5613000.0,8078449.0,Alta
+BI Analyst / Data Analyst,Junior,Dolarizado,900000.0,1040000.0,1778000.0,1790000.0,2500000.0,Baja
+BI Analyst / Data Analyst,Junior,No dolarizado,830000.0,1296003.5,1704159.0,2019450.0,4121500.0,Alta
+BI Analyst / Data Analyst,Semi-Senior,Dolarizado,1190000.0,2200000.0,2464186.5,3085750.0,5200000.0,Alta
+BI Analyst / Data Analyst,Semi-Senior,No dolarizado,1000000.0,1774750.0,2315051.48,3000000.0,5040000.0,Alta
+BI Analyst / Data Analyst,Senior,Dolarizado,1520000.0,2600000.0,3899940.0,4620000.0,6413400.0,Baja
+BI Analyst / Data Analyst,Senior,No dolarizado,680000.0,2375000.0,3300000.0,4921560.0,8000000.0,Alta
+Business Analyst,Junior,Dolarizado,1200000.0,1275000.0,1350000.0,1425000.0,1500000.0,Alta
+Business Analyst,Junior,No dolarizado,855000.0,1010955.5,1166911.0,1300955.5,1435000.0,Alta
+Business Analyst,Semi-Senior,Dolarizado,1346664.0,1600000.0,1949500.0,2514813.25,3997456.0,Baja
+Business Analyst,Semi-Senior,No dolarizado,1092000.0,1800000.0,2031805.0,2686751.0,3376350.0,Alta
+Business Analyst,Senior,Dolarizado,1359000.0,2098000.0,2200000.0,3250000.0,3500000.0,Baja
+Business Analyst,Senior,No dolarizado,1600000.0,2450000.0,2900000.0,3075000.0,5500000.0,Alta
+Consultant,Junior,Dolarizado,1396346.37,1484759.7775,1573173.185,1661586.5925,1750000.0,Alta
+Consultant,Semi-Senior,Dolarizado,2854746.0,2927373.0,3000000.0,4230000.0,5460000.0,Baja
+Consultant,Semi-Senior,No dolarizado,680000.0,1500000.0,1950000.0,3225000.0,6428000.0,Baja
+Consultant,Senior,Dolarizado,2600000.0,3337500.0,3900000.0,6975000.0,11000000.0,Baja
+Consultant,Senior,No dolarizado,570000.0,1770000.0,2430000.0,3900000.0,7344641.0,Baja
+DBA (Database Administrator),Junior,No dolarizado,1100000.0,1500000.0,1900000.0,1949038.5,1998077.0,Alta
+DBA (Database Administrator),Semi-Senior,No dolarizado,1600000.0,2255750.0,3000000.0,3348128.185,3800000.0,Baja
+DBA (Database Administrator),Senior,No dolarizado,1300000.0,2150000.0,4950000.0,6526250.0,7300000.0,Baja
+Data Engineer,Junior,Dolarizado,1010000.0,1250000.0,1454500.0,2100705.75,3500000.0,Baja
+Data Engineer,Junior,No dolarizado,1319000.0,1817000.0,2300000.0,2700000.0,4135000.0,Baja
+Data Engineer,Semi-Senior,Dolarizado,1700000.0,2450000.0,3356250.0,3850000.0,6441000.0,Alta
+Data Engineer,Semi-Senior,No dolarizado,850000.0,1925000.0,2450000.0,2828750.0,4000000.0,Alta
+Data Engineer,Senior,Dolarizado,1900000.0,4000000.0,4500000.0,7200000.0,9608400.0,Baja
+Data Engineer,Senior,No dolarizado,2497000.0,3254323.0,3526727.0,4150000.0,6000000.0,Alta
+Data Scientist,Junior,Dolarizado,1100000.0,1650000.0,2200000.0,3025000.0,3850000.0,Baja
+Data Scientist,Junior,No dolarizado,800000.0,2183111.75,3220000.0,3738026.0,4000000.0,Baja
+Data Scientist,Semi-Senior,Dolarizado,2500000.0,3000000.0,3182000.0,3422000.0,6254000.0,Alta
+Data Scientist,Semi-Senior,No dolarizado,1200000.0,2506126.75,3250000.0,4065250.0,7000000.0,Alta
+Data Scientist,Senior,Dolarizado,2500000.0,4045000.0,5900000.0,8142250.0,11284736.0,Baja
+Data Scientist,Senior,No dolarizado,433700.0,2302153.5,4200000.0,5200000.0,6000000.0,Baja
+Designer,Junior,Dolarizado,900000.0,1441428.75,1660952.5,1850000.0,2300000.0,Baja
+Designer,Junior,No dolarizado,927000.0,1045250.0,1163500.0,1281750.0,1400000.0,Alta
+Designer,Semi-Senior,Dolarizado,940000.0,1097500.0,1502735.5,2031603.25,2560000.0,Baja
+Designer,Semi-Senior,No dolarizado,500000.0,868750.0,1112500.0,1673294.25,2596470.0,Baja
+Designer,Senior,Dolarizado,1948565.7,2392750.0,3465982.12,4812500.0,8000000.0,Baja
+Designer,Senior,No dolarizado,1000000.0,1397149.4375,1776207.5,2696717.5,4300000.0,Baja
+Developer,Junior,Dolarizado,400000.0,1100000.0,1400000.0,2048000.0,14160000.0,Alta
+Developer,Junior,No dolarizado,200000.0,1080000.0,1445000.0,1985000.0,5400000.0,Alta
+Developer,Semi-Senior,Dolarizado,849600.0,1800000.0,2650000.0,3500000.0,8000000.0,Alta
+Developer,Semi-Senior,No dolarizado,170000.0,1790442.0,2255000.0,2979284.75,7100000.0,Alta
+Developer,Senior,Dolarizado,250000.0,3021635.83,4350470.0,6000000.0,14000000.0,Alta
+Developer,Senior,No dolarizado,300000.0,2290000.0,3105000.0,4000000.0,8562000.0,Alta
+Docente,Semi-Senior,No dolarizado,2270000.0,2402500.0,2535000.0,2667500.0,2800000.0,Alta
+Docente,Senior,No dolarizado,245000.0,1900000.0,2000000.0,2453476.5,3000000.0,Baja
+Finance,Senior,No dolarizado,800000.0,1037500.0,1650000.0,2650000.0,6000000.0,Baja
+Functional Analyst,Junior,No dolarizado,1250000.0,1346363.5,1473500.0,1575000.0,2400000.0,Baja
+Functional Analyst,Semi-Senior,No dolarizado,1500000.0,1830262.5,2300000.0,2621070.0,3750000.0,Alta
+Functional Analyst,Senior,Dolarizado,1411963.52,1508972.6400000001,1605981.76,1702990.88,1800000.0,Alta
+Functional Analyst,Senior,No dolarizado,1585000.0,1896000.0,2263276.0,2950000.0,4055000.0,Baja
+HelpDesk,Junior,Dolarizado,1300000.0,1337500.0,1375000.0,1412500.0,1450000.0,Alta
+HelpDesk,Junior,No dolarizado,935000.0,1100000.0,1226514.0,1364589.0,1800000.0,Baja
+HelpDesk,Semi-Senior,Dolarizado,1716492.0,1758246.0,1800000.0,2150000.0,2500000.0,Alta
+HelpDesk,Semi-Senior,No dolarizado,920000.0,1168500.0,1248287.0,1400000.0,2100000.0,Alta
+HelpDesk,Senior,Dolarizado,1800000.0,2475000.0,3600000.0,5025000.0,6600000.0,Baja
+HelpDesk,Senior,No dolarizado,500000.0,1230000.0,1700000.0,2065050.0,4697700.0,Alta
+Infosec,Junior,Dolarizado,1200000.0,1500000.0,1591500.0,2198750.0,3640000.0,Baja
+Infosec,Junior,No dolarizado,880000.0,1649894.5,2345129.0,2943000.0,5100000.0,Baja
+Infosec,Semi-Senior,Dolarizado,1600000.0,3600000.0,3829668.0,5600000.0,5694744.0,Baja
+Infosec,Semi-Senior,No dolarizado,714000.0,2200000.0,2515000.0,3400000.0,7282444.0,Alta
+Infosec,Senior,Dolarizado,1300000.0,2747975.0,4289208.0,5082000.0,8500000.0,Baja
+Infosec,Senior,No dolarizado,2100000.0,3160000.0,4124699.0,5000000.0,8229886.0,Alta
+Manager / Director,Junior,Dolarizado,2000000.0,3689361.0,4800000.0,6500000.0,7200000.0,Baja
+Manager / Director,Junior,No dolarizado,240000.0,1891750.0,2425000.0,4200000.0,5375000.0,Baja
+Manager / Director,Semi-Senior,Dolarizado,1400000.0,2825000.0,4000000.0,5521250.0,11300000.0,Baja
+Manager / Director,Semi-Senior,No dolarizado,1200000.0,2200000.0,3109433.0,5300000.0,9000000.0,Alta
+Manager / Director,Senior,Dolarizado,470000.0,3547818.0,5000000.0,6625000.0,15675000.0,Alta
+Manager / Director,Senior,No dolarizado,400000.0,3152000.0,4222161.0,5500000.0,10500000.0,Alta
+Marketing,Semi-Senior,No dolarizado,550000.0,745000.0,940000.0,1335000.0,1730000.0,Baja
+Middleware,Senior,No dolarizado,2500000.0,2950000.0,4050000.0,5000000.0,5000000.0,Baja
+NOC Analyst,Semi-Senior,No dolarizado,2260156.15,2357427.1125,2454698.075,2551969.0375,2649240.0,Alta
+Networking,Junior,No dolarizado,1387500.0,1487500.0,1700000.0,2287500.0,2450000.0,Baja
+Networking,Semi-Senior,No dolarizado,1800000.0,2142500.0,2486457.5,2925000.0,5500000.0,Baja
+Networking,Senior,Dolarizado,1593000.0,2411787.59,3900000.0,4331000.0,4800000.0,Baja
+Networking,Senior,No dolarizado,1300000.0,1975000.0,2772875.0,3607800.0,5700000.0,Alta
+QA / Tester,Junior,Dolarizado,250000.0,895217.5,1600000.0,1675000.0,2983000.0,Baja
+QA / Tester,Junior,No dolarizado,650000.0,905250.0,1186921.5,1607500.0,4500000.0,Alta
+QA / Tester,Semi-Senior,Dolarizado,950000.0,1700000.0,2159000.0,2750000.0,5200000.0,Alta
+QA / Tester,Semi-Senior,No dolarizado,1045000.0,1352194.5,1783900.0,2225000.0,6152616.0,Alta
+QA / Tester,Senior,Dolarizado,1400000.0,2423750.0,3299925.0,5205000.0,9840000.0,Baja
+QA / Tester,Senior,No dolarizado,775000.0,1952591.75,2625000.0,3475000.0,5265410.0,Alta
+Recruiter,Semi-Senior,Dolarizado,800000.0,1500000.0,1900000.0,2244000.0,3699800.0,Baja
+Recruiter,Semi-Senior,No dolarizado,917000.0,1584250.0,1796019.5,2134250.0,2600000.0,Alta
+Recruiter,Senior,Dolarizado,1100000.0,2241321.0,3122000.0,4350000.0,7900000.0,Baja
+Recruiter,Senior,No dolarizado,1650000.0,1925000.0,2255920.0,3027250.0,9000000.0,Baja
+Sales / Pre-Sales,Junior,No dolarizado,600000.0,1162500.0,1725000.0,2287500.0,2850000.0,Baja
+Sales / Pre-Sales,Semi-Senior,Dolarizado,2100000.0,2300000.0,2500000.0,2750000.0,3000000.0,Alta
+Sales / Pre-Sales,Semi-Senior,No dolarizado,1310771.18,2250000.0,2300000.0,2500000.0,5000000.0,Baja
+Sales / Pre-Sales,Senior,Dolarizado,3400000.0,3625000.0,4075000.0,4937500.0,5890000.0,Baja
+Sales / Pre-Sales,Senior,No dolarizado,1600000.0,1787500.0,2274096.5,3600000.0,7100000.0,Baja
+Scrum Master,Semi-Senior,No dolarizado,1615900.0,1682950.0,1750000.0,2360000.0,2970000.0,Baja
+Scrum Master,Senior,Dolarizado,1800000.0,2422104.75,3414736.5,4500000.0,5400000.0,Baja
+Scrum Master,Senior,No dolarizado,1800000.0,2720250.0,3500000.0,4544750.0,7600000.0,Baja
+Storage / Backup,Senior,No dolarizado,1500000.0,2400000.0,2700000.0,3700000.0,5000000.0,Baja
+SysAdmin / DevOps / SRE,Junior,Dolarizado,1000000.0,1507972.0,1740000.0,2382300.0,2750000.0,Baja
+SysAdmin / DevOps / SRE,Junior,No dolarizado,500000.0,1145000.0,1595748.5,2425000.0,8749000.0,Baja
+SysAdmin / DevOps / SRE,Semi-Senior,Dolarizado,1100000.0,2406500.0,3175000.0,4549800.0,7200000.0,Baja
+SysAdmin / DevOps / SRE,Semi-Senior,No dolarizado,743000.0,1650000.0,2300000.0,3096500.0,6300000.0,Alta
+SysAdmin / DevOps / SRE,Senior,Dolarizado,1400000.0,3000000.0,4445000.0,6071250.0,11900000.0,Alta
+SysAdmin / DevOps / SRE,Senior,No dolarizado,243000.0,2007500.0,2600000.0,3816500.0,8381926.0,Alta
+Technical Leader,Junior,Dolarizado,2200000.0,2300000.0,2400000.0,2500000.0,2600000.0,Alta
+Technical Leader,Junior,No dolarizado,1100000.0,1637283.0,1900000.0,2993000.0,3700000.0,Baja
+Technical Leader,Semi-Senior,Dolarizado,2000000.0,2750000.0,4200000.0,4415957.5,6250000.0,Baja
+Technical Leader,Semi-Senior,No dolarizado,1600000.0,2575330.0,3200000.0,3785000.0,6000000.0,Alta
+Technical Leader,Senior,Dolarizado,850000.0,4000000.0,4725000.0,6700000.0,15000000.0,Alta
+Technical Leader,Senior,No dolarizado,1200000.0,3136750.0,4275000.0,5475000.0,10700000.0,Alta
+Technical Support,Semi-Senior,No dolarizado,850000.0,1100000.0,1350000.0,1950500.0,2551000.0,Baja
+Technical Support,Senior,No dolarizado,980000.0,1408000.0,2138000.0,2200000.0,3800000.0,Baja
+UX Designer,Junior,Dolarizado,1300000.0,1371000.0,1442000.0,1721000.0,2000000.0,Alta
+UX Designer,Junior,No dolarizado,750000.0,1162500.0,1693500.0,1790646.75,2500000.0,Baja
+UX Designer,Semi-Senior,Dolarizado,1400000.0,2000000.0,2360000.0,2903807.0,4768000.0,Alta
+UX Designer,Semi-Senior,No dolarizado,219000.0,1175942.0,1907500.0,2600000.0,4100000.0,Baja
+UX Designer,Senior,Dolarizado,1383283.0,2096106.0,3170000.0,3674428.0,6000000.0,Alta
+UX Designer,Senior,No dolarizado,1468395.0,2240617.25,2752471.295,3331750.0,4185214.0,Alta
+UX Researcher,Semi-Senior,Dolarizado,3500000.0,3585000.0,3670000.0,3755000.0,3840000.0,Alta
+UX Researcher,Semi-Senior,No dolarizado,2100000.0,2688273.25,2850000.0,3125000.0,5870000.0,Baja
+UX Researcher,Senior,No dolarizado,2500000.0,3400000.0,4200000.0,4770000.0,4980000.0,Baja
+UX Writer,Semi-Senior,No dolarizado,2070000.0,2070000.0,2585000.0,3355000.0,4120000.0,Baja
+UX Writer,Senior,No dolarizado,2213800.0,2594032.5,2974265.0,3245912.0,3517559.0,Alta
+VP / C-Level,Senior,Dolarizado,2800000.0,4100000.0,5455000.0,8812500.0,14000000.0,Baja
+VP / C-Level,Senior,No dolarizado,2400000.0,3603000.0,4769500.0,5450000.0,10700000.0,Baja

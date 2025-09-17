@@ -1,0 +1,217 @@
+﻿Lenguaje de Programación,Seniority,p50,Confianza,Dolarización
+Objective-C,Junior,,Alta,No dolarizado
+Objective-C,Junior,,Alta,Dolarizado
+Objective-C,Semi-Senior,3450000.0,Alta,No dolarizado
+Objective-C,Semi-Senior,,Alta,Dolarizado
+Objective-C,Senior,4730400.0,Baja,No dolarizado
+Objective-C,Senior,5532770.0,Baja,Dolarizado
+COBOL,Junior,,Alta,No dolarizado
+COBOL,Junior,1654000.0,Alta,Dolarizado
+COBOL,Semi-Senior,2915000.0,Baja,No dolarizado
+COBOL,Semi-Senior,1908000.0,Baja,Dolarizado
+COBOL,Senior,4100000.0,Baja,No dolarizado
+COBOL,Senior,4400000.0,Baja,Dolarizado
+Groovy,Junior,1364589.0,Baja,No dolarizado
+Groovy,Junior,,Alta,Dolarizado
+Groovy,Semi-Senior,2557500.0,Alta,No dolarizado
+Groovy,Semi-Senior,2340937.0,Baja,Dolarizado
+Groovy,Senior,3300000.0,Baja,No dolarizado
+Groovy,Senior,5220000.0,Baja,Dolarizado
+Apex,Junior,1120000.0,Alta,No dolarizado
+Apex,Junior,,Alta,Dolarizado
+Apex,Semi-Senior,,Alta,No dolarizado
+Apex,Semi-Senior,2994000.0,Alta,Dolarizado
+Apex,Senior,,Alta,No dolarizado
+Apex,Senior,,Alta,Dolarizado
+Solidity,Junior,,Alta,No dolarizado
+Solidity,Junior,,Alta,Dolarizado
+Solidity,Semi-Senior,,Alta,No dolarizado
+Solidity,Semi-Senior,3425000.0,Baja,Dolarizado
+Solidity,Senior,6200000.0,Baja,No dolarizado
+Solidity,Senior,5120000.0,Baja,Dolarizado
+Python,Junior,1805116.24,Alta,No dolarizado
+Python,Junior,1650000.0,Alta,Dolarizado
+Python,Semi-Senior,2500000.0,Alta,No dolarizado
+Python,Semi-Senior,3182000.0,Alta,Dolarizado
+Python,Senior,3500000.0,Alta,No dolarizado
+Python,Senior,5000000.0,Alta,Dolarizado
+C#,Junior,1350000.0,Alta,No dolarizado
+C#,Junior,2887500.0,Baja,Dolarizado
+C#,Semi-Senior,2200000.0,Alta,No dolarizado
+C#,Semi-Senior,2300000.0,Alta,Dolarizado
+C#,Senior,3400000.0,Alta,No dolarizado
+C#,Senior,3850000.0,Alta,Dolarizado
+Swift,Junior,1695000.0,Baja,No dolarizado
+Swift,Junior,,Alta,Dolarizado
+Swift,Semi-Senior,2900000.0,Alta,No dolarizado
+Swift,Semi-Senior,4000000.0,Baja,Dolarizado
+Swift,Senior,4730400.0,Baja,No dolarizado
+Swift,Senior,5532770.0,Baja,Dolarizado
+HTML,Junior,1360553.5,Alta,No dolarizado
+HTML,Junior,1350000.0,Alta,Dolarizado
+HTML,Semi-Senior,2200000.0,Alta,No dolarizado
+HTML,Semi-Senior,2159000.0,Alta,Dolarizado
+HTML,Senior,3100000.0,Alta,No dolarizado
+HTML,Senior,4400000.0,Alta,Dolarizado
+Java,Junior,1585000.0,Alta,No dolarizado
+Java,Junior,1250000.0,Alta,Dolarizado
+Java,Semi-Senior,2374944.0,Alta,No dolarizado
+Java,Semi-Senior,3000000.0,Alta,Dolarizado
+Java,Senior,4000000.0,Alta,No dolarizado
+Java,Senior,5000000.0,Alta,Dolarizado
+Arduino,Junior,1775000.0,Baja,No dolarizado
+Arduino,Junior,,Alta,Dolarizado
+Arduino,Semi-Senior,1256733.0,Baja,No dolarizado
+Arduino,Semi-Senior,,Alta,Dolarizado
+Arduino,Senior,2750000.0,Baja,No dolarizado
+Arduino,Senior,4750000.0,Baja,Dolarizado
+.NET,Junior,1300000.0,Alta,No dolarizado
+.NET,Junior,1800000.0,Baja,Dolarizado
+.NET,Semi-Senior,2278824.57,Alta,No dolarizado
+.NET,Semi-Senior,2110000.0,Baja,Dolarizado
+.NET,Senior,3590250.0,Alta,No dolarizado
+.NET,Senior,3908000.0,Alta,Dolarizado
+Rust,Junior,,Alta,No dolarizado
+Rust,Junior,,Alta,Dolarizado
+Rust,Semi-Senior,1750000.0,Baja,No dolarizado
+Rust,Semi-Senior,7100000.0,Baja,Dolarizado
+Rust,Senior,4169951.0,Baja,No dolarizado
+Rust,Senior,4700000.0,Baja,Dolarizado
+Assembler,Junior,,Alta,No dolarizado
+Assembler,Junior,,Alta,Dolarizado
+Assembler,Semi-Senior,1500000.0,Baja,No dolarizado
+Assembler,Semi-Senior,2400000.0,Baja,Dolarizado
+Assembler,Senior,3000000.0,Baja,No dolarizado
+Assembler,Senior,4750000.0,Baja,Dolarizado
+ABAP,Junior,,Alta,No dolarizado
+ABAP,Junior,,Alta,Dolarizado
+ABAP,Semi-Senior,3400000.0,Alta,No dolarizado
+ABAP,Semi-Senior,,Alta,Dolarizado
+ABAP,Senior,3900000.0,Alta,No dolarizado
+ABAP,Senior,4000000.0,Baja,Dolarizado
+Matlab,Junior,,Alta,No dolarizado
+Matlab,Junior,,Alta,Dolarizado
+Matlab,Semi-Senior,,Alta,No dolarizado
+Matlab,Semi-Senior,,Alta,Dolarizado
+Matlab,Senior,3100000.0,Baja,No dolarizado
+Matlab,Senior,2635000.0,Alta,Dolarizado
+TypeScript,Junior,1408256.0,Alta,No dolarizado
+TypeScript,Junior,1560000.0,Alta,Dolarizado
+TypeScript,Semi-Senior,2195000.0,Alta,No dolarizado
+TypeScript,Semi-Senior,2620000.0,Alta,Dolarizado
+TypeScript,Senior,3500000.0,Alta,No dolarizado
+TypeScript,Senior,4805000.0,Alta,Dolarizado
+Powershell,Junior,,Alta,No dolarizado
+Powershell,Junior,,Alta,Dolarizado
+Powershell,Semi-Senior,2535421.33,Alta,No dolarizado
+Powershell,Semi-Senior,,Alta,Dolarizado
+Powershell,Senior,3400000.0,Baja,No dolarizado
+Powershell,Senior,5082500.0,Baja,Dolarizado
+C++,Junior,1421875.0,Baja,No dolarizado
+C++,Junior,2121500.0,Alta,Dolarizado
+C++,Semi-Senior,2150000.0,Baja,No dolarizado
+C++,Semi-Senior,2527439.0,Baja,Dolarizado
+C++,Senior,3581405.0,Alta,No dolarizado
+C++,Senior,3650000.0,Baja,Dolarizado
+PowerShell,Junior,,Alta,No dolarizado
+PowerShell,Junior,,Alta,Dolarizado
+PowerShell,Semi-Senior,2565712.0,Alta,No dolarizado
+PowerShell,Semi-Senior,,Alta,Dolarizado
+PowerShell,Senior,4200000.0,Alta,No dolarizado
+PowerShell,Senior,,Alta,Dolarizado
+C,Junior,1666875.0,Baja,No dolarizado
+C,Junior,,Alta,Dolarizado
+C,Semi-Senior,2070000.0,Baja,No dolarizado
+C,Semi-Senior,2350000.0,Baja,Dolarizado
+C,Senior,2470000.0,Alta,No dolarizado
+C,Senior,4256334.0,Alta,Dolarizado
+Kotlin,Junior,1358256.0,Baja,No dolarizado
+Kotlin,Junior,,Alta,Dolarizado
+Kotlin,Semi-Senior,2628057.5,Alta,No dolarizado
+Kotlin,Semi-Senior,2520468.5,Baja,Dolarizado
+Kotlin,Senior,4538000.0,Alta,No dolarizado
+Kotlin,Senior,4700000.0,Baja,Dolarizado
+Dart,Junior,1144578.0,Baja,No dolarizado
+Dart,Junior,7980000.0,Baja,Dolarizado
+Dart,Semi-Senior,2190000.0,Alta,No dolarizado
+Dart,Semi-Senior,2050000.0,Baja,Dolarizado
+Dart,Senior,3872161.0,Baja,No dolarizado
+Dart,Senior,8000000.0,Baja,Dolarizado
+Scala,Junior,2277500.0,Baja,No dolarizado
+Scala,Junior,,Alta,Dolarizado
+Scala,Semi-Senior,,Alta,No dolarizado
+Scala,Semi-Senior,,Alta,Dolarizado
+Scala,Senior,5450000.0,Baja,No dolarizado
+Scala,Senior,5177500.0,Alta,Dolarizado
+Perl,Junior,,Alta,No dolarizado
+Perl,Junior,,Alta,Dolarizado
+Perl,Semi-Senior,1356733.0,Alta,No dolarizado
+Perl,Semi-Senior,,Alta,Dolarizado
+Perl,Senior,3000000.0,Alta,No dolarizado
+Perl,Senior,4939863.0,Baja,Dolarizado
+CSS,Junior,1350000.0,Alta,No dolarizado
+CSS,Junior,1400000.0,Alta,Dolarizado
+CSS,Semi-Senior,2200000.0,Alta,No dolarizado
+CSS,Semi-Senior,2200000.0,Alta,Dolarizado
+CSS,Senior,3112000.0,Alta,No dolarizado
+CSS,Senior,4500000.0,Alta,Dolarizado
+Delphi,Junior,,Alta,No dolarizado
+Delphi,Junior,,Alta,Dolarizado
+Delphi,Semi-Senior,1310921.0,Baja,No dolarizado
+Delphi,Semi-Senior,,Alta,Dolarizado
+Delphi,Senior,3750000.0,Baja,No dolarizado
+Delphi,Senior,3160000.0,Baja,Dolarizado
+Bash/Shell,Junior,1600000.0,Alta,No dolarizado
+Bash/Shell,Junior,1800000.0,Alta,Dolarizado
+Bash/Shell,Semi-Senior,2400000.0,Alta,No dolarizado
+Bash/Shell,Semi-Senior,3328125.0,Alta,Dolarizado
+Bash/Shell,Senior,3200000.0,Alta,No dolarizado
+Bash/Shell,Senior,4969931.5,Alta,Dolarizado
+Javascript,Junior,1492950.0,Alta,No dolarizado
+Javascript,Junior,1300000.0,Alta,Dolarizado
+Javascript,Semi-Senior,2200000.0,Alta,No dolarizado
+Javascript,Semi-Senior,2552000.0,Alta,Dolarizado
+Javascript,Senior,3400000.0,Alta,No dolarizado
+Javascript,Senior,4631000.0,Alta,Dolarizado
+Erlang,Junior,,Alta,No dolarizado
+Erlang,Junior,,Alta,Dolarizado
+Erlang,Semi-Senior,,Alta,No dolarizado
+Erlang,Semi-Senior,,Alta,Dolarizado
+Erlang,Senior,4319898.0,Baja,No dolarizado
+Erlang,Senior,,Alta,Dolarizado
+VBA,Junior,1930000.0,Alta,No dolarizado
+VBA,Junior,1875000.0,Alta,Dolarizado
+VBA,Semi-Senior,1790442.0,Baja,No dolarizado
+VBA,Semi-Senior,3198728.0,Alta,Dolarizado
+VBA,Senior,3350000.0,Alta,No dolarizado
+VBA,Senior,2200000.0,Baja,Dolarizado
+R,Junior,900000.0,Alta,No dolarizado
+R,Junior,,Alta,Dolarizado
+R,Semi-Senior,2524507.0,Baja,No dolarizado
+R,Semi-Senior,3328125.0,Baja,Dolarizado
+R,Senior,3143000.0,Alta,No dolarizado
+R,Senior,4500000.0,Baja,Dolarizado
+Go,Junior,1566270.0,Baja,No dolarizado
+Go,Junior,1525867.2,Baja,Dolarizado
+Go,Semi-Senior,2875000.0,Alta,No dolarizado
+Go,Semi-Senior,3625000.0,Alta,Dolarizado
+Go,Senior,4852907.0,Alta,No dolarizado
+Go,Senior,5400000.0,Alta,Dolarizado
+Ruby,Junior,,Alta,No dolarizado
+Ruby,Junior,,Alta,Dolarizado
+Ruby,Semi-Senior,3280000.0,Baja,No dolarizado
+Ruby,Semi-Senior,3500000.0,Baja,Dolarizado
+Ruby,Senior,4300000.0,Baja,No dolarizado
+Ruby,Senior,4939863.0,Baja,Dolarizado
+SQL,Junior,1595000.0,Alta,No dolarizado
+SQL,Junior,1475000.0,Alta,Dolarizado
+SQL,Semi-Senior,2330051.48,Alta,No dolarizado
+SQL,Semi-Senior,2827373.0,Alta,Dolarizado
+SQL,Senior,3400000.0,Alta,No dolarizado
+SQL,Senior,4445000.0,Alta,Dolarizado
+PHP,Junior,1408750.0,Alta,No dolarizado
+PHP,Junior,1960500.0,Baja,Dolarizado
+PHP,Semi-Senior,2250000.0,Alta,No dolarizado
+PHP,Semi-Senior,2200000.0,Alta,Dolarizado
+PHP,Senior,2988500.0,Alta,No dolarizado
+PHP,Senior,4300000.0,Alta,Dolarizado

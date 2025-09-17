@@ -1,137 +1,119 @@
-# Análisis de la encuesta Sysarmy
-## Edición 2023.02 (2023 - 2do semestre).
-
-## Consideraciones para reproducir los datos en Colab
-
+ # Análisis de la encuesta Sysarmy
+Última Actualización: 2025.02
+### Consideraciones para reproducir el análisis realizado con Colab 
 En caso que el lector requiera replicar los resultados, o crear un nuevo análisis para las futuras encuestas, se plantean consideraciones útiles para caso set de datos.
 
-### Reproducibilidad Datos Históricos
+## Primera Parte - Colab No Histórico
+1. Cargar el csv RAW de la encuesta en el repositorio de la edición actual en: data/*edición_encuesta*_raw.csv.
 
-#### *Caso 1: Dataset en el repositorio*
+2. En la primera celda del Colab No Histórico:
+    * Actualizar el csv_url al csv RAW de esta edición (tiene que ser el enlace del View Raw).
+    * Actualizar el dataset_metadata de esta edición:
+        - year
+        - part
+        - skiprows se mantiene en 0
+        - publish date (un estimativo)
+        - salario mínimo en argentina (en general en [Wikipedia](https://es.wikipedia.org/wiki/Anexo:Salario_m%C3%ADnimo_en_Argentina) bien actualizado, chequear con fuentes oficiales, suelen estar desactualizadas)
 
-Si los datos ya están subidos en el mismo repositorio que los anteriores datasets, no habría que hacer grandes cambios ya que la celda “1.2. Iteramos los metadatos por dataset y cargamos los valores del repositorio” lo hace automáticamente. Tener en cuenta que hay que agregar a la celda de metadatos, los metadatos correspondientes al set nuevo.<br />
+3. Comenzar con la sanitización del dataset y corregir / actualizar las que se marcan de acá en adelante.
 
-```
-   {
-        "year": 2023,
-       "part": 2,
-       "skiprows": 0,
-      "publish_date": "2023-07-11",
-     "minimum_salary": 87987 ,
-        "src": [
-            "Último salario mensual  o retiro BRUTO (en tu moneda local)",
-             "Último salario mensual  o retiro BRUTO (en tu moneda local)",
-             "Dónde estás trabajando",
-             "Tengo",
-             "Años de experiencia",
-             "Tiempo en el puesto actual",
-             "Trabajo de",
-             "Me identifico",
-            "¿Qué tan conforme estás con tus ingresos laborales?",
-        ],
-   }
-```
+4. 1.4.1. Carreras
+    * Actualizar instrucciones de normalización de nombres de carreras según las que vayan quedando sueltas y refieran a carreras que ya aparecen.
 
-### *Caso 2: Dataset no incluido en el repositorio* 
+5. 1.4.4. Roles
+    * Actualizar instrucciones de normalización de nombres de roles según los que vayan quedando sueltos y refieran a roles que ya aparecen. Tener en cuenta criterios elegidos hasta ahora.
 
-Si los datos estén en un .csv local, primero hay que subir el archivo  a Google Drive y luego importarlo desde el notebook.
+6. 1.4.6. Género
+    * Actualizar instrucciones de normalización de género.
+    * Actualizar valores de top_genders
+    * Actualizar valores de all_genders
 
-</br>
+7. 1.4.8. En esa sección se descarga el dataset sanitizado para usar en el Colab Histórico. Lleva el nombre de *edición_encuesta*.csv. Este dataset aún contiene outliers salariales.
 
+8. 1.6. En esta sección se descarga el dataset sanitizado y con eliminación de outliers. Lleva el nombre de *edición_encuesta*CLEAN.csv Es el que se va a usar en todo el análisis del Colab No Histórico. 
 
-```
-data202302 = pd.read_csv("/content/drive/MyDrive/(...)/2023.02.csv", 
-                            skiprows=0)
-```
+9. Comenzar con el análisis del dataset y corregir / actualizar las que se marcan de acá en adelante.
 
-#### Consideraciones para cargar los datos nuevos en el caso 2:
-1. Tomar en cuenta solamente a aquellas columnas que se van a utilizar en el análisis histórico (salario, experiencia, lugar de trabajo, edad, años en el puesto actual, identidad de género, conformidad de salario).
+10. 2.2.3. Experiencia // Antiguedad en la Empresa Actual // Años en el Puesto Actual
+    * Calcular máximo de la variable en cuestión.
+    * Modificar a partir de ese cálculo el límite superior de los grupos.
 
-```
-data202302 = data202302[['Salario mensual o retiro BRUTO (en tu moneda local)','Años de experiencia','Dónde estás trabajando','Tengo','Años en el puesto actual','Trabajo de','Me identifico','¿Qué tan conforme estás con tu sueldo?']]
-data202302 = data202102.rename(columns={"Salario mensual o retiro BRUTO (en tu moneda local)": "salary", "Años de experiencia": "yoe",'Dónde estás trabajando':'location','Tengo':'age','Años en el puesto actual':'yip','Trabajo de':'role','Me identifico':'gender','¿Qué tan conforme estás con tu sueldo?':'acquiescence'})
-```
+11. 2.4.1. Identidad de Género
+    * En la primera celda mandar a to_rechart todas aquellas identidades de género de las cuales haya alguna respuesta.
 
-2.	Hacer las mismas transformaciones que se hagan en el notebook no histórico, para que la integridad y formato de los datos sea idéntico en ambos análisis.
+12. 2.4.7. // 2.4.8. // 2.4.9. Experiencia
+    * Corregir anos_de_experiencia según el máximo encontrado.
 
-```
-data202302.loc[:, "_sal"] = data202302[
-    "salary"
-]
-data202302["salary"] = (
-    data202102["_sal"]
-    .str.replace(".", "")
-    .str.replace(",", ".")
-    .str.replace("$", "")
-    .str.replace(r"[^0-9\.]", "")
-    .str.replace(r"^\s*$", "0")
-    .fillna(0)
-    .astype(float)
-)
-```
+13. 2.6.7. Porcentajes de Ajuste Acumulados
+    * Corregir máximo de ajuste acumulado y en función de eso los grupos utilizados.
 
-3.	Variables `salary_type`, `part`, y `publish_date` van a ser fijos y deben definirse a mano. Estas variables en los sets de datos anteriores (es decir, los que ya están en el repositorio) vienen definidas por los metadatos en la celda _1.1. Definición de metadata por dataset que define la forma de unir los diferentes conjuntos de datos_.
+14. Publicación
+    * 3.1. Descargamos el diccionario charts como charts.pkl para armar documento resumen para GPT.
+    * 3.2  Descargamos un zip con todos los charts por separado. De ese zip, guardamos:
+        - careeres_stacked_percent.csv
+        - education_stacked.csv
+        - universities_stacked_percent.csv
+    en data/GPT/csvs_no_tidy.
+    * 3.2. Generamos el diccionario para copiar dentro del archivo charts.js del frontend. Copiamos el diccionario para actualizar charts.js.
+    * 3.3. Chequeamos que el diccionario que generamos tenga las mismas claves que esperamos tener en charts.js. Las keys de este diccionario se encuentran en el repositorio data/keys_graficos_no_historicos_*edición_encuesta*.csv
 
-```
-#creamos las columnas que faltan (metadatos)
-data202302['salary_type'] = data202102['salary']
-data202302['part'] = 2
-data202302['publish_date'] = "2023-07-11"
+De este Colab se descarga:
+* dataframe sanitizado para Colab Histórico: *edición_encuesta*.csv  - Guardar en el en repositorio data/csv/argentina/
+* dataframe CLEAN sanitizado y sin outliers para todo el análisis y para compartir: *edición_encuesta*CLEAN.csv - Guardar en el repositorio data/
+* diccionario de charts: charts.pkl - Guardar en el repositorio data/GPT/
 
-#reordenamos
-data202302 = data202302[["salary","salary_type", "location", "age","yoe","yip","role","gender","acquiescence","part","publish_date"]]
-```
+## Segunda Parte - Colab Histórico
+1. Actualizar cotizaciones de dólar en repositorio:
+    * US$ Oficial: actualizar con datos de Bloomberg. En el achivo del repositorio data/currency-*edición_encuesta*.json copiar las últimas cotizaciones.
+    * US$ Blue: descargar archivo evolución de bluelytics. Reemplazar el archivo data/evolution.csv por el actual.
+    * Salario en USS MEP: actualizar con datos de Ámbito. En el achivo del repositorio data/evolucion_mep.csv copiar las últimas cotizaciones.
 
-4.	Verificar que los datatypes coincidan con los de los sets anteriores (todas las columnas object excepto ‘publish_date’ que es datetime64).
+2. Actualizar IPC acumulado en repositorio:
+    * En el achivo del repositorio data/ipc_acumulado_*edición_encuesta*.csv agregar la línea correspondiente a la edición actual, tomando valor de IPC acumulado del mes anterior al que inició la encuesta.
 
-```
-#cambiamos tipos de datos para que coincidan con los datos de antes (menos salario que lo cambio en la celda de abajo)
-data202302[["salary_type", "location", "age","yoe","yip","role","gender","acquiescence","publish_date"]] = data202302[["salary_type", "location", "age","yoe","yip","role","gender","acquiescence","publish_date"]].astype('object')
-data202302['publish_date'] = data202302['publish_date'].astype('datetime64') 
-```
+3. En primera celda del Colab: agregar a datasets_metadata la metadata de la edición actual y en la misma celda cambiar el final_publish_date.
 
-5.	Una vez se tenga el set de datos normalizado correctamente, combinarlo con el dataframe general (combined_dataframe) que ya viene definido de antes (tiene la combinación de todos los sets de datos)
+4. Publicación
+    * 3.1. Exportamos el diccionario chart como charts.pkl para armar documento resumen para GPT.
+    * 3.2 Generamos el diccionario para copiar dentro del archivo historic-charts.js del frontend. Copiamos el diccionario para actualizar historic-charts.js.
+    * 3.3. Chequeamos que el diccionario que generamos tenga las mismas claves que esperamos tener en historic_charts.js. Las keys de este diccionar io se encuentran en el repositorio data/keys_graficos_historicos_*edición_encuesta*.csv
 
-```
-#unimos el dataframe combinado de años anteriores, a los nuevos datos de 2023.02
-combined_dataframe = combined_dataframe.append(data202302)
-```
+De este Colab se descarga:
+* diccionario de historic-charts: historic-charts.pkl - Guardar en el repositorio data/GPT/
 
-6.	El proceso luego es el mismo, ya que el combined_dataframe no tiene nuevas columnas sino nuevos registros. 
-Nota: se agrega una celda para redefinir los metadatos que se hizo al inicio del notebook. Es la misma celda pero se adiciona  al diccionario la entrada correspondiente a los metadaots del set 2021.02. Esto no se agrega en la del comienzo ya que la función que se utiliza luego para tomar los datos del repositorio falla al no encontrar el set más nuevo. Una vez estén todos los datasets en el repositorio, eliminar esta celda.
+## Tercera Parte - Colab GPT
+1. Agregar a datasets_metadata la metadata de la edición actual.
 
-![Celda de metadatos](https://i.ibb.co/MgBZHqs/Captura.png)
+2. Modificar link a la data de ipc acumulado, con nombre actualizado al de esta edición.
 
-</br>
+3. Modificar link al dataset CLEAN de esta edición.
 
-#### Valor del dólar oficial, ahorro y blue
+De este Colab se descarga:
+* diccionario de historic-charts: historic-charts.pkl - Guardar en el repositorio data/GPT/
+* percentiles_salariales_roles_seniority_dolarizacion.csv - Guardar en el repositorio data/GPT/data_for_GPT
+* encuesta_anterior_percentiles_salariales_roles_seniority_dolarizacion_actualizados.csv - Guardar en el repositorio data/GPT/data_for_GPT
+* medianas_salariales_nivel_de_estudios.csv - Guardar en el repositorio data/GPT/data_for_GPT
+* medianas_salariales_carrera_experiencia.csv - Guardar en el repositorio data/GPT/data_for_GPT
+* medianas_salariales_plataformas.csv - Guardar en el repositorio data/GPT/data_for_GPT
+* medianas_salariales_lenguajes_de_programacion.csv - Guardar en el repositorio data/GPT/data_for_GPT
+* top-10-mejores-pagos.csv - Guardar en el repositorio data/GPT/data_for_GPT
 
--	**Dólar oficial**: Se importa un json ([link](https://www.bloomberg.com/markets/api/bulk-time-series/price/USDARS%3ACUR?timeFrame=5_YEAR)) con el histórico de cotizaciones, que tiene datos de 5 años (hasta la fecha actual). 
-Para adicionar datos anteriores a 5 años, unimos el json de Bloomberg con el que ya venia en el notebook de ediciones anteriores, que trae datos hasta 2012 ([link](https://raw.githubusercontent.com/openqube/openqube-sueldos/release/2020.02/data/currency-2020.02.json)).
-Esa unión de jsons se subió a Google Drive para importarla directamente desde Colab.
+## Cuarta Parte - GPT
+1. Correr data/GPT/csvs_no_tidy/tidy_for_csv.py que va a guardar en data/GPT/data_for_GPT:
+    - education_stacked_long.csv
+    - careeres_stacked_percent.csv
+    - universities_stacked_percent.csv
 
--	**Dólar ahorro**: Se hace un cálculo directamente en front-end en base al dólar oficial. Verificar ese apartado para más detalles.
+2. Correr data/GPT/make_GPT_md.py que va a guardar en data/GPT/data_for_GPT el archivo resumen_encuesta.md.
 
--	**Dólar Blue**: Obtuvimos la cotización desde www.bluelytics.com.ar ([link api](https://api.bluelytics.com.ar/v2/evolution.csv))
-
-Seleccionar solo las columnas que nos importen (las mismas que tiene el json de dólar oficial), que son fecha y valor de compra.
-
-Filtrar por Tipo: blue y fecha:2016-08-01 (es decir, desde el comienzo de las encuestas)
-
-Luego el código es el mismo que para el dólar oficial, se obtiene la mediana por período, pero aplicando el valor de conversión del blue.
-
-Código: 
-
-```
-dolar_blue = pd.read_csv("/content/drive/MyDrive/Colab Notebooks/encuesta_sysarmy/evolution.csv")
-dolar_blue =  dolar_blue[dolar_blue['type']=='Blue']
-dolar_blue =  dolar_blue[dolar_blue['day']>='2016-08-01'] #filtramos la fecha desde el comienzo de las encuestas
-dolar_blue = dolar_blue[['day','value_buy']]
-dolar_blue = dolar_blue.rename(columns={'day': "date",'value_buy':'value'})
-```
-
-Nota: El archivo `evolution.csv` esta dentro de la carpeta `data` de este repo.
-
-
-
-
+3. Subir al GPT el resumen (resumen_encuesta.md) y las tablas  actualizadas (10):
+    1. education_stacked_long.csv
+    2. careeres_stacked_percent.csv
+    3. universities_stacked_percent.csv
+    4. percentiles_salariales_roles_seniority_dolarizacion.csv
+    5. encuesta_anterior_percentiles_salariales_roles_seniority_dolarizacion_actualizados.csv
+    6. medianas_salariales_nivel_de_estudios.csv
+    7. medianas_salariales_carrera_experiencia.csv
+    8. medianas_salariales_plataformas.csv
+    9. medianas_salariales_lenguajes_de_programacion.csv
+    10. top-10-mejores-pagos.csv

@@ -1,0 +1,25 @@
+﻿name,estado,porcentaje
+Universitario,Completo,12.94
+Terciario,Completo,3.6
+Posgrado/Especialización,Completo,1.71
+Secundario,Completo,1.23
+Maestría,Completo,1.12
+Doctorado,Completo,0.29
+Posdoctorado,Completo,0.13
+Primario,Completo,0.03
+Universitario,En curso,8.56
+Terciario,En curso,1.81
+Posgrado/Especialización,En curso,0.43
+Secundario,En curso,0.0
+Maestría,En curso,0.96
+Doctorado,En curso,0.03
+Posdoctorado,En curso,0.0
+Primario,En curso,0.0
+Universitario,Incompleto,6.03
+Terciario,Incompleto,1.04
+Posgrado/Especialización,Incompleto,0.13
+Secundario,Incompleto,0.13
+Maestría,Incompleto,0.4
+Doctorado,Incompleto,0.08
+Posdoctorado,Incompleto,0.0
+Primario,Incompleto,0.0

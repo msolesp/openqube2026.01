@@ -1,0 +1,181 @@
+﻿Plataforma,Seniority,p50,Confianza,Dolarización
+Proxmox,Junior,,Alta,No dolarizado
+Proxmox,Junior,,Alta,Dolarizado
+Proxmox,Semi-Senior,1275000.0,Alta,No dolarizado
+Proxmox,Semi-Senior,,Alta,Dolarizado
+Proxmox,Senior,1800000.0,Baja,No dolarizado
+Proxmox,Senior,5313000.0,Baja,Dolarizado
+Kubernetes,Junior,2172564.5,Baja,No dolarizado
+Kubernetes,Junior,1687500.0,Baja,Dolarizado
+Kubernetes,Semi-Senior,2800000.0,Alta,No dolarizado
+Kubernetes,Semi-Senior,2989922.0,Alta,Dolarizado
+Kubernetes,Senior,4192500.0,Alta,No dolarizado
+Kubernetes,Senior,5215582.0,Alta,Dolarizado
+Mainframe,Junior,1998077.0,Baja,No dolarizado
+Mainframe,Junior,1908000.0,Alta,Dolarizado
+Mainframe,Semi-Senior,3300000.0,Baja,No dolarizado
+Mainframe,Semi-Senior,3323000.0,Baja,Dolarizado
+Mainframe,Senior,3400000.0,Baja,No dolarizado
+Mainframe,Senior,4250000.0,Baja,Dolarizado
+SAP,Junior,1287000.0,Baja,No dolarizado
+SAP,Junior,1495047.0,Baja,Dolarizado
+SAP,Semi-Senior,2433998.35,Alta,No dolarizado
+SAP,Semi-Senior,2274500.0,Baja,Dolarizado
+SAP,Senior,3500000.0,Alta,No dolarizado
+SAP,Senior,3850000.0,Alta,Dolarizado
+VMWare,Junior,1788500.0,Baja,No dolarizado
+VMWare,Junior,1750000.0,Baja,Dolarizado
+VMWare,Semi-Senior,2230000.0,Alta,No dolarizado
+VMWare,Semi-Senior,2600000.0,Baja,Dolarizado
+VMWare,Senior,3122516.76,Alta,No dolarizado
+VMWare,Senior,4000000.0,Alta,Dolarizado
+Google Cloud Platform,Junior,1908000.0,Alta,No dolarizado
+Google Cloud Platform,Junior,1540905.6,Baja,Dolarizado
+Google Cloud Platform,Semi-Senior,2600000.0,Alta,No dolarizado
+Google Cloud Platform,Semi-Senior,3100000.0,Alta,Dolarizado
+Google Cloud Platform,Senior,3500000.0,Alta,No dolarizado
+Google Cloud Platform,Senior,4817900.0,Alta,Dolarizado
+Postman,Junior,1800000.0,Alta,No dolarizado
+Postman,Junior,1975000.0,Baja,Dolarizado
+Postman,Semi-Senior,2244642.5,Alta,No dolarizado
+Postman,Semi-Senior,2700000.0,Alta,Dolarizado
+Postman,Senior,3581405.0,Alta,No dolarizado
+Postman,Senior,4280000.0,Alta,Dolarizado
+Linux,Junior,1610000.0,Alta,No dolarizado
+Linux,Junior,1800000.0,Alta,Dolarizado
+Linux,Semi-Senior,2300000.0,Alta,No dolarizado
+Linux,Semi-Senior,2746500.0,Alta,Dolarizado
+Linux,Senior,3224273.0,Alta,No dolarizado
+Linux,Senior,4700000.0,Alta,Dolarizado
+IBM Cloud / Watson,Junior,2465000.0,Baja,No dolarizado
+IBM Cloud / Watson,Junior,,Alta,Dolarizado
+IBM Cloud / Watson,Semi-Senior,2610960.0,Baja,No dolarizado
+IBM Cloud / Watson,Semi-Senior,,Alta,Dolarizado
+IBM Cloud / Watson,Senior,4146533.5,Baja,No dolarizado
+IBM Cloud / Watson,Senior,5350000.0,Baja,Dolarizado
+HP-UX,Junior,1200000.0,Baja,No dolarizado
+HP-UX,Junior,,Alta,Dolarizado
+HP-UX,Semi-Senior,,Alta,No dolarizado
+HP-UX,Semi-Senior,,Alta,Dolarizado
+HP-UX,Senior,3385500.0,Baja,No dolarizado
+HP-UX,Senior,3900000.0,Alta,Dolarizado
+Ninguna de las anteriores,Junior,1400000.0,Alta,No dolarizado
+Ninguna de las anteriores,Junior,1621905.0,Alta,Dolarizado
+Ninguna de las anteriores,Semi-Senior,2100000.0,Alta,No dolarizado
+Ninguna de las anteriores,Semi-Senior,2544000.0,Alta,Dolarizado
+Ninguna de las anteriores,Senior,2915586.5,Alta,No dolarizado
+Ninguna de las anteriores,Senior,3859394.5,Alta,Dolarizado
+Microcontroladores,Junior,1995000.0,Alta,No dolarizado
+Microcontroladores,Junior,2500000.0,Alta,Dolarizado
+Microcontroladores,Semi-Senior,2135000.0,Baja,No dolarizado
+Microcontroladores,Semi-Senior,2045234.0,Baja,Dolarizado
+Microcontroladores,Senior,3000000.0,Alta,No dolarizado
+Microcontroladores,Senior,3557500.0,Baja,Dolarizado
+Arduino o similar,Junior,1443750.0,Baja,No dolarizado
+Arduino o similar,Junior,3360000.0,Baja,Dolarizado
+Arduino o similar,Semi-Senior,2287530.075,Baja,No dolarizado
+Arduino o similar,Semi-Senior,1900000.0,Baja,Dolarizado
+Arduino o similar,Senior,3450000.0,Alta,No dolarizado
+Arduino o similar,Senior,3813000.0,Baja,Dolarizado
+Databricks,Junior,,Alta,No dolarizado
+Databricks,Junior,,Alta,Dolarizado
+Databricks,Semi-Senior,2600000.0,Alta,No dolarizado
+Databricks,Semi-Senior,2672500.0,Alta,Dolarizado
+Databricks,Senior,,Alta,No dolarizado
+Databricks,Senior,9173500.0,Alta,Dolarizado
+Windows Server,Junior,1821500.0,Alta,No dolarizado
+Windows Server,Junior,1750000.0,Baja,Dolarizado
+Windows Server,Semi-Senior,2081614.85,Alta,No dolarizado
+Windows Server,Semi-Senior,2900000.0,Baja,Dolarizado
+Windows Server,Senior,3100000.0,Alta,No dolarizado
+Windows Server,Senior,3500000.0,Alta,Dolarizado
+OpenShift,Junior,1702558.12,Baja,No dolarizado
+OpenShift,Junior,,Alta,Dolarizado
+OpenShift,Semi-Senior,3000000.0,Alta,No dolarizado
+OpenShift,Semi-Senior,2995522.5,Baja,Dolarizado
+OpenShift,Senior,3980000.0,Alta,No dolarizado
+OpenShift,Senior,3600000.0,Baja,Dolarizado
+Figma,Junior,,Alta,No dolarizado
+Figma,Junior,,Alta,Dolarizado
+Figma,Semi-Senior,1893177.0,Baja,No dolarizado
+Figma,Semi-Senior,,Alta,Dolarizado
+Figma,Senior,3000000.0,Baja,No dolarizado
+Figma,Senior,2528855.5,Baja,Dolarizado
+*BSD,Junior,1250000.0,Alta,No dolarizado
+*BSD,Junior,,Alta,Dolarizado
+*BSD,Semi-Senior,1983850.0,Alta,No dolarizado
+*BSD,Semi-Senior,2400000.0,Alta,Dolarizado
+*BSD,Senior,3000000.0,Baja,No dolarizado
+*BSD,Senior,4500000.0,Baja,Dolarizado
+Jira,Junior,1200000.0,Baja,No dolarizado
+Jira,Junior,1286717.5,Baja,Dolarizado
+Jira,Semi-Senior,2800000.0,Baja,No dolarizado
+Jira,Semi-Senior,,Alta,Dolarizado
+Jira,Senior,4953000.0,Baja,No dolarizado
+Jira,Senior,,Alta,Dolarizado
+Docker,Junior,1698429.5,Alta,No dolarizado
+Docker,Junior,1889000.0,Baja,Dolarizado
+Docker,Semi-Senior,2400000.0,Alta,No dolarizado
+Docker,Semi-Senior,2981041.0,Alta,Dolarizado
+Docker,Senior,3581655.0,Alta,No dolarizado
+Docker,Senior,5100110.5,Alta,Dolarizado
+Amazon Web Services,Junior,1750000.0,Alta,No dolarizado
+Amazon Web Services,Junior,1633000.0,Alta,Dolarizado
+Amazon Web Services,Semi-Senior,2700000.0,Alta,No dolarizado
+Amazon Web Services,Semi-Senior,3182000.0,Alta,Dolarizado
+Amazon Web Services,Senior,3933410.0,Alta,No dolarizado
+Amazon Web Services,Senior,5000000.0,Alta,Dolarizado
+Azure,Junior,1500000.0,Alta,No dolarizado
+Azure,Junior,1450000.0,Alta,Dolarizado
+Azure,Semi-Senior,2600000.0,Alta,No dolarizado
+Azure,Semi-Senior,2500000.0,Alta,Dolarizado
+Azure,Senior,3500000.0,Alta,No dolarizado
+Azure,Senior,3860000.0,Alta,Dolarizado
+Fortinet,Junior,1319512.5,Alta,No dolarizado
+Fortinet,Junior,,Alta,Dolarizado
+Fortinet,Semi-Senior,1661500.0,Baja,No dolarizado
+Fortinet,Semi-Senior,,Alta,Dolarizado
+Fortinet,Senior,2412251.52,Baja,No dolarizado
+Fortinet,Senior,,Alta,Dolarizado
+Solaris,Junior,1650000.0,Alta,No dolarizado
+Solaris,Junior,,Alta,Dolarizado
+Solaris,Semi-Senior,2145000.0,Baja,No dolarizado
+Solaris,Semi-Senior,,Alta,Dolarizado
+Solaris,Senior,3285500.0,Baja,No dolarizado
+Solaris,Senior,3800000.0,Baja,Dolarizado
+Salesforce,Junior,1040000.0,Alta,No dolarizado
+Salesforce,Junior,,Alta,Dolarizado
+Salesforce,Semi-Senior,2229000.0,Baja,No dolarizado
+Salesforce,Semi-Senior,2988000.0,Baja,Dolarizado
+Salesforce,Senior,4500000.0,Alta,No dolarizado
+Salesforce,Senior,3550000.0,Baja,Dolarizado
+Cisco,Junior,,Alta,No dolarizado
+Cisco,Junior,,Alta,Dolarizado
+Cisco,Semi-Senior,,Alta,No dolarizado
+Cisco,Semi-Senior,,Alta,Dolarizado
+Cisco,Senior,2650000.0,Baja,No dolarizado
+Cisco,Senior,,Alta,Dolarizado
+Serverless,Junior,2310000.0,Baja,No dolarizado
+Serverless,Junior,1555944.0,Baja,Dolarizado
+Serverless,Semi-Senior,2745000.0,Alta,No dolarizado
+Serverless,Semi-Senior,4000000.0,Alta,Dolarizado
+Serverless,Senior,4500000.0,Alta,No dolarizado
+Serverless,Senior,5000000.0,Alta,Dolarizado
+Firebase,Junior,1371107.0,Baja,No dolarizado
+Firebase,Junior,1810500.0,Alta,Dolarizado
+Firebase,Semi-Senior,2478600.0,Alta,No dolarizado
+Firebase,Semi-Senior,3100000.0,Baja,Dolarizado
+Firebase,Senior,3450000.0,Alta,No dolarizado
+Firebase,Senior,4800000.0,Alta,Dolarizado
+AIX,Junior,2049038.5,Alta,No dolarizado
+AIX,Junior,,Alta,Dolarizado
+AIX,Semi-Senior,1850000.0,Baja,No dolarizado
+AIX,Semi-Senior,3400000.0,Baja,Dolarizado
+AIX,Senior,3692405.0,Baja,No dolarizado
+AIX,Senior,3800000.0,Alta,Dolarizado
+OpenStack,Junior,1000000.0,Alta,No dolarizado
+OpenStack,Junior,2082600.0,Baja,Dolarizado
+OpenStack,Semi-Senior,2314904.0,Baja,No dolarizado
+OpenStack,Semi-Senior,2600000.0,Baja,Dolarizado
+OpenStack,Senior,4360327.63,Baja,No dolarizado
+OpenStack,Senior,3574050.0,Baja,Dolarizado

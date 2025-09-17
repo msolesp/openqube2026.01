@@ -1,0 +1,121 @@
+﻿name,estado,porcentaje
+Ingeniería en Sistemas,Completo,3.44
+Analista de Sistemas,Completo,2.4
+Ingeniería en Informática,Completo,1.97
+Licenciatura en Sistemas,Completo,1.2
+Diseño Gráfico,Completo,1.09
+Tecnicatura Superior en Programación,Completo,1.07
+Licenciatura en Informática,Completo,0.88
+Ingeniería Electrónica,Completo,0.72
+Licenciatura en Ciencias de la Computación,Completo,0.61
+Licenciatura en Administración de Empresas,Completo,0.43
+Analista Programador Universitario,Completo,0.32
+Tecnicatura Superior en Sistemas Informáticos,Completo,0.32
+Ingeniería Industrial,Completo,0.32
+Ingeniería en Computación,Completo,0.29
+Ingeniería en Telecomunicaciones,Completo,0.24
+Telecomunicaciones,Completo,0.24
+Analista de Computación,Completo,0.24
+Licenciatura en Ciencias Físicas,Completo,0.24
+Tecnicatura en Sistemas,Completo,0.21
+Licenciatura en Ciencia de Datos,Completo,0.19
+Diseño Multimedial,Completo,0.19
+Tecnicatura en Informática,Completo,0.16
+Desarrollo Web,Completo,0.13
+Licenciatura en Comunicación,Completo,0.13
+Tecnicatura en Computación,Completo,-0.13
+Ingeniería en Software,Completo,0.11
+Licenciatura en Gestión de Tecnología,Completo,0.11
+Recursos Humanos,Completo,-0.11
+Diseño de Imagen y Sonido,Completo,-0.11
+Sistemas de Información,Completo,-0.11
+Técnique Secundario en Programación,Completo,-0.11
+Desarrollo de Software,Completo,-0.08
+Ingeniería Mecatrónica,Completo,-0.08
+Licenciatura en Psicología,Completo,0.08
+Licenciatura en Sociología,Completo,-0.08
+Certificaciones y Bootcamp,Completo,-0.08
+Diseño Industrial,Completo,-0.08
+Medicina,Completo,-0.08
+Licenciatura en Marketing,Completo,-0.08
+Tecnicatura Electrónica,Completo,-0.08
+Ingeniería en Sistemas,En curso,1.97
+Analista de Sistemas,En curso,0.72
+Ingeniería en Informática,En curso,1.36
+Licenciatura en Sistemas,En curso,0.91
+Diseño Gráfico,En curso,0.13
+Tecnicatura Superior en Programación,En curso,1.07
+Licenciatura en Informática,En curso,0.67
+Ingeniería Electrónica,En curso,0.32
+Licenciatura en Ciencias de la Computación,En curso,0.8
+Licenciatura en Administración de Empresas,En curso,0.35
+Analista Programador Universitario,En curso,0.16
+Tecnicatura Superior en Sistemas Informáticos,En curso,0.08
+Ingeniería Industrial,En curso,0.05
+Ingeniería en Computación,En curso,0.05
+Ingeniería en Telecomunicaciones,En curso,0.08
+Telecomunicaciones,En curso,0.03
+Analista de Computación,En curso,0.0
+Licenciatura en Ciencias Físicas,En curso,0.0
+Tecnicatura en Sistemas,En curso,0.03
+Licenciatura en Ciencia de Datos,En curso,0.99
+Diseño Multimedial,En curso,0.03
+Tecnicatura en Informática,En curso,0.08
+Desarrollo Web,En curso,0.05
+Licenciatura en Comunicación,En curso,0.03
+Tecnicatura en Computación,En curso,-0.03
+Ingeniería en Software,En curso,0.19
+Licenciatura en Gestión de Tecnología,En curso,0.11
+Recursos Humanos,En curso,-0.03
+Diseño de Imagen y Sonido,En curso,-0.0
+Sistemas de Información,En curso,-0.0
+Técnique Secundario en Programación,En curso,-0.0
+Desarrollo de Software,En curso,-0.08
+Ingeniería Mecatrónica,En curso,-0.05
+Licenciatura en Psicología,En curso,0.05
+Licenciatura en Sociología,En curso,-0.05
+Certificaciones y Bootcamp,En curso,-0.03
+Diseño Industrial,En curso,-0.03
+Medicina,En curso,-0.03
+Licenciatura en Marketing,En curso,-0.0
+Tecnicatura Electrónica,En curso,-0.0
+Ingeniería en Sistemas,Incompleto,1.84
+Analista de Sistemas,Incompleto,0.75
+Ingeniería en Informática,Incompleto,0.43
+Licenciatura en Sistemas,Incompleto,0.43
+Diseño Gráfico,Incompleto,0.11
+Tecnicatura Superior en Programación,Incompleto,0.59
+Licenciatura en Informática,Incompleto,0.4
+Ingeniería Electrónica,Incompleto,0.48
+Licenciatura en Ciencias de la Computación,Incompleto,0.4
+Licenciatura en Administración de Empresas,Incompleto,0.11
+Analista Programador Universitario,Incompleto,0.11
+Tecnicatura Superior en Sistemas Informáticos,Incompleto,0.03
+Ingeniería Industrial,Incompleto,0.13
+Ingeniería en Computación,Incompleto,0.13
+Ingeniería en Telecomunicaciones,Incompleto,0.03
+Telecomunicaciones,Incompleto,0.08
+Analista de Computación,Incompleto,0.03
+Licenciatura en Ciencias Físicas,Incompleto,0.08
+Tecnicatura en Sistemas,Incompleto,0.08
+Licenciatura en Ciencia de Datos,Incompleto,0.03
+Diseño Multimedial,Incompleto,0.03
+Tecnicatura en Informática,Incompleto,0.08
+Desarrollo Web,Incompleto,0.03
+Licenciatura en Comunicación,Incompleto,0.08
+Tecnicatura en Computación,Incompleto,-0.0
+Ingeniería en Software,Incompleto,0.11
+Licenciatura en Gestión de Tecnología,Incompleto,0.0
+Recursos Humanos,Incompleto,-0.03
+Diseño de Imagen y Sonido,Incompleto,-0.0
+Sistemas de Información,Incompleto,-0.05
+Técnique Secundario en Programación,Incompleto,-0.0
+Desarrollo de Software,Incompleto,-0.03
+Ingeniería Mecatrónica,Incompleto,-0.0
+Licenciatura en Psicología,Incompleto,0.08
+Licenciatura en Sociología,Incompleto,-0.0
+Certificaciones y Bootcamp,Incompleto,-0.03
+Diseño Industrial,Incompleto,-0.03
+Medicina,Incompleto,-0.03
+Licenciatura en Marketing,Incompleto,-0.0
+Tecnicatura Electrónica,Incompleto,-0.0

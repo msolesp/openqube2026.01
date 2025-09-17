@@ -1,0 +1,124 @@
+﻿name,estado,porcentaje
+UTN - Universidad Tecnológica Nacional,Completo,4.19
+UBA - Universidad de Buenos Aires,Completo,2.53
+UNLaM - Universidad Nacional de La Matanza,Completo,0.8
+UADE - Universidad Argentina De la Empresa,Completo,0.75
+UAI - Universidad Abierta Interamericana,Completo,0.75
+ORT,Completo,0.59
+UP - Universidad de Palermo,Completo,0.56
+UNLP - Universidad Nacional de La Plata,Completo,0.51
+UNC - Universidad Nacional de Córdoba,Completo,0.51
+UNR - Universidad Nacional de Rosario,Completo,0.48
+UNICEN - Universidad Nacional del Centro de la Provincia de Buenos Aires,Completo,0.35
+Universidad Siglo 21,Completo,0.32
+UNCUYO - Universidad Nacional de Cuyo,Completo,0.32
+UNSAM - Universidad de San Martín,Completo,0.24
+ITBA Instituto Tecnológico de Buenos Aires,Completo,0.24
+UCAECE - Centro de Altos Estudios en Ciencias Exactas,Completo,0.21
+UNS - Universidad Nacional del Sur,Completo,0.21
+UBP - Universidad Blas Pascal,Completo,0.21
+ESBA - Escuela Superior Buenos Aires,Completo,0.19
+ISTEA - Instituto Superior Tecnológico Empresarial Argentino,Completo,0.16
+UCA - Universidad Católica Argentina,Completo,0.16
+UNCOMA - Universidad Nacional del Comahu,Completo,0.16
+Escuela Da Vinci,Completo,0.13
+USAL - Universidad del Salvador,Completo,0.13
+UNL - Universidad Nacional del Litoral,Completo,0.13
+UNNOBA - Universidad Nacional del Noroeste de la Provincia de Buenos Aires,Completo,0.13
+UNLA - Universidad Nacional de Lanús,Completo,0.11
+UNNNE - Universidad Nacional del Nordeste,Completo,0.11
+UCES - Universidad de Ciencias Empresariales y Sociales,Completo,0.11
+UNRC - Universidad Nacional de Río Cuarto,Completo,0.11
+UNSL - Universidad Nacional de San Luis,Completo,0.11
+UNQ - Universidad Nacional de Quilmes,Completo,0.08
+IUA - Instituto Universitario Aeronáutico,Completo,0.08
+UM - Universidad de Morón,Completo,0.08
+UNTREF - Universidad Tres de Febrero,Completo,0.08
+UNJu - Universidad Nacional de Jujuy,Completo,0.08
+UADER - Universidad Autónoma de Entre Ríos,Completo,0.05
+UB - Universidad de Belgrano,Completo,0.05
+UK - Universidad Kennedy,Completo,0.05
+UNLaR - Universidad Nacional De La Rioja,Completo,0.05
+Otros,Completo,0.08
+UTN - Universidad Tecnológica Nacional,En curso,2.93
+UBA - Universidad de Buenos Aires,En curso,1.65
+UNLaM - Universidad Nacional de La Matanza,En curso,0.35
+UADE - Universidad Argentina De la Empresa,En curso,0.59
+UAI - Universidad Abierta Interamericana,En curso,0.29
+ORT,En curso,0.08
+UP - Universidad de Palermo,En curso,0.32
+UNLP - Universidad Nacional de La Plata,En curso,0.27
+UNC - Universidad Nacional de Córdoba,En curso,0.08
+UNR - Universidad Nacional de Rosario,En curso,0.13
+UNICEN - Universidad Nacional del Centro de la Provincia de Buenos Aires,En curso,0.08
+Universidad Siglo 21,En curso,0.56
+UNCUYO - Universidad Nacional de Cuyo,En curso,0.16
+UNSAM - Universidad de San Martín,En curso,0.27
+ITBA Instituto Tecnológico de Buenos Aires,En curso,0.03
+UCAECE - Centro de Altos Estudios en Ciencias Exactas,En curso,0.24
+UNS - Universidad Nacional del Sur,En curso,0.11
+UBP - Universidad Blas Pascal,En curso,0.0
+ESBA - Escuela Superior Buenos Aires,En curso,0.16
+ISTEA - Instituto Superior Tecnológico Empresarial Argentino,En curso,0.19
+UCA - Universidad Católica Argentina,En curso,0.0
+UNCOMA - Universidad Nacional del Comahu,En curso,0.0
+Escuela Da Vinci,En curso,0.16
+USAL - Universidad del Salvador,En curso,0.05
+UNL - Universidad Nacional del Litoral,En curso,0.03
+UNNOBA - Universidad Nacional del Noroeste de la Provincia de Buenos Aires,En curso,0.0
+UNLA - Universidad Nacional de Lanús,En curso,0.05
+UNNNE - Universidad Nacional del Nordeste,En curso,0.05
+UCES - Universidad de Ciencias Empresariales y Sociales,En curso,0.03
+UNRC - Universidad Nacional de Río Cuarto,En curso,0.03
+UNSL - Universidad Nacional de San Luis,En curso,0.03
+UNQ - Universidad Nacional de Quilmes,En curso,0.05
+IUA - Instituto Universitario Aeronáutico,En curso,0.03
+UM - Universidad de Morón,En curso,0.03
+UNTREF - Universidad Tres de Febrero,En curso,0.03
+UNJu - Universidad Nacional de Jujuy,En curso,0.0
+UADER - Universidad Autónoma de Entre Ríos,En curso,0.08
+UB - Universidad de Belgrano,En curso,0.03
+UK - Universidad Kennedy,En curso,0.0
+UNLaR - Universidad Nacional De La Rioja,En curso,0.0
+Otros,En curso,0.37
+UTN - Universidad Tecnológica Nacional,Incompleto,2.53
+UBA - Universidad de Buenos Aires,Incompleto,1.01
+UNLaM - Universidad Nacional de La Matanza,Incompleto,0.11
+UADE - Universidad Argentina De la Empresa,Incompleto,0.19
+UAI - Universidad Abierta Interamericana,Incompleto,0.08
+ORT,Incompleto,0.05
+UP - Universidad de Palermo,Incompleto,0.08
+UNLP - Universidad Nacional de La Plata,Incompleto,0.4
+UNC - Universidad Nacional de Córdoba,Incompleto,0.11
+UNR - Universidad Nacional de Rosario,Incompleto,0.21
+UNICEN - Universidad Nacional del Centro de la Provincia de Buenos Aires,Incompleto,0.11
+Universidad Siglo 21,Incompleto,0.08
+UNCUYO - Universidad Nacional de Cuyo,Incompleto,0.08
+UNSAM - Universidad de San Martín,Incompleto,0.11
+ITBA Instituto Tecnológico de Buenos Aires,Incompleto,0.0
+UCAECE - Centro de Altos Estudios en Ciencias Exactas,Incompleto,0.13
+UNS - Universidad Nacional del Sur,Incompleto,0.03
+UBP - Universidad Blas Pascal,Incompleto,0.03
+ESBA - Escuela Superior Buenos Aires,Incompleto,0.05
+ISTEA - Instituto Superior Tecnológico Empresarial Argentino,Incompleto,0.03
+UCA - Universidad Católica Argentina,Incompleto,0.0
+UNCOMA - Universidad Nacional del Comahu,Incompleto,0.0
+Escuela Da Vinci,Incompleto,0.08
+USAL - Universidad del Salvador,Incompleto,0.08
+UNL - Universidad Nacional del Litoral,Incompleto,0.11
+UNNOBA - Universidad Nacional del Noroeste de la Provincia de Buenos Aires,Incompleto,0.05
+UNLA - Universidad Nacional de Lanús,Incompleto,0.08
+UNNNE - Universidad Nacional del Nordeste,Incompleto,0.08
+UCES - Universidad de Ciencias Empresariales y Sociales,Incompleto,0.0
+UNRC - Universidad Nacional de Río Cuarto,Incompleto,0.0
+UNSL - Universidad Nacional de San Luis,Incompleto,0.0
+UNQ - Universidad Nacional de Quilmes,Incompleto,0.11
+IUA - Instituto Universitario Aeronáutico,Incompleto,0.0
+UM - Universidad de Morón,Incompleto,0.03
+UNTREF - Universidad Tres de Febrero,Incompleto,0.08
+UNJu - Universidad Nacional de Jujuy,Incompleto,0.08
+UADER - Universidad Autónoma de Entre Ríos,Incompleto,0.05
+UB - Universidad de Belgrano,Incompleto,0.0
+UK - Universidad Kennedy,Incompleto,0.05
+UNLaR - Universidad Nacional De La Rioja,Incompleto,0.03
+Otros,Incompleto,0.21
