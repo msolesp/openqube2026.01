@@ -1,5 +1,5 @@
 
-## Edición 2025.02 (2025 - 2ndo semestre)
+## Edición 2026.01 (2026 - 1er semestre)
 
 <img src='https://sysarmy.com/blog/assets/carpincho.jpg' width="300px">
 
@@ -9,7 +9,7 @@
 
 El objetivo es poder analizar los salarios del mundo IT de Argentina, así como su evolución a lo largo del tiempo, cruzado por distintas variables como las de género, demográficas, entre otras.
 
-Para ello se analizó la información utilizando Python en Google Colab, por lo cual los informes son 100% reproducibles en el navegador. La información se muestra en el [sitio web](https://sueldos.openqube.io/encuesta-sueldos-2025.02) de openqube.
+Para ello se analizó la información utilizando Python en Google Colab, por lo cual los informes son 100% reproducibles en el navegador. La información se muestra en el [sitio web](https://sueldos.openqube.io/encuesta-sueldos-2026.01) de openqube.
 
 ### Acerca de los datos
 
