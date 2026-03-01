@@ -53,6 +53,7 @@ En caso que el lector requiera replicar los resultados, o crear un nuevo anális
         - careeres_stacked_percent.csv
         - education_stacked.csv
         - universities_stacked_percent.csv
+        
     en data/GPT/csvs_no_tidy.
     * 3.2. Generamos el diccionario para copiar dentro del archivo charts.js del frontend. Copiamos el diccionario para actualizar charts.js.
     * 3.3. Chequeamos que el diccionario que generamos tenga las mismas claves que esperamos tener en charts.js. Las keys de este diccionario se encuentran en el repositorio data/keys_graficos_no_historicos_*edición_encuesta*.csv
