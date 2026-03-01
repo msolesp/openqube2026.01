@@ -43,13 +43,14 @@ export default [
                         <li><a href="https://sueldos.openqube.io/encuesta-sueldos-2023.02/" target="_blank" rel="noopener noreferrer">2023.02 </a></li>
                         <li><a href="https://sueldos.openqube.io/encuesta-sueldos-2024.01/" target="_blank" rel="noopener noreferrer">2024.01 </a></li>
                         <li><a href="https://sueldos.openqube.io/encuesta-sueldos-2025.01/" target="_blank" rel="noopener noreferrer">2025.01 </a></li>
+                        <li><a href="https://sueldos.openqube.io/encuesta-sueldos-2025.02/" target="_blank" rel="noopener noreferrer">2025.02 </a></li>
                     </ul>
                 </p>
                 <p>
                     Con la intención de presentar a nuestra comunidad los resultados de forma más accesible, seleccionamos algunos datos estadísticos que consideramos relevantes. Para una mejor comprensión de los mismos, recomendamos leer el apartado de <a href="#Metodologia">Metodología</a>.
                 </p>
                 <p>
-                    A continuación te mostramos los resultados del nuevo análisis para junio - julio 2025.
+                    A continuación te mostramos los resultados del nuevo análisis para diciembre 2025 - febrero 2026.
                 </p>
                 <br />
                 <div className='authors-wrapper'>
@@ -136,7 +137,7 @@ export default [
                                 description: (<p>En esta sección, los datos fueron agrupados por rangos de años, en conjuntos arbitrarios.
                                     <br>
                                     </br>
-                                    Se observan valores similares a los de la <a href="https://sueldos.openqube.io/encuesta-sueldos-2025.01/" target="_blank" rel="noopener noreferrer">encuesta anterior</a>.
+                                    Se observan valores similares a los de la <a href="https://sueldos.openqube.io/encuesta-sueldos-2025.02/" target="_blank" rel="noopener noreferrer">encuesta anterior</a>.
                                 </p>)
                             },
                         ],
@@ -197,7 +198,7 @@ export default [
                                 description: (
                                     <div>
                                         <p>
-                                            Aproximadamente el 22% de las personas encuestadas no ha finalizado estudios universitarios.
+                                            Aproximadamente el 23% de las personas encuestadas no ha finalizado estudios universitarios.
                                         </p>
 
                                     </div>
@@ -317,7 +318,7 @@ export default [
                                 props: { ...historic_charts['historic_salary_medians'], xDataKey: 'publish_date', yDataKeys: ['Pesos Argentinos'], currency: 'AR$' },
                                 caption: <p>Serie histórica de salarios en ARS basada en encuestas anteriores de sysarmy.</p>,
                                 description: <p>
-                                    Desde enero de 2025 hasta julio de 2025 se registró en la República Argentina una inflación de <a target="_blank" rel="noopener noreferrer" href="https://calculadoradeinflacion.com/argentina.html?md=enero&ad=2025&mh=julio&ah=2025&q=100&s=cpi"> 15%</a> según el <a target="_blank" rel="noopener noreferrer" href="https://www.indec.gob.ar/">INDEC</a>. Según los datos históricos de esta encuesta, en aproximadamente el mismo intervalo de tiempo, la mediana salarial aumentó un 26%.
+                                    Desde junio de 2025 hasta enero de 2026 se registró en la República Argentina una inflación de <a target="_blank" rel="noopener noreferrer" href="https://calculadoradeinflacion.com/argentina"> 16%</a> según el <a target="_blank" rel="noopener noreferrer" href="https://www.indec.gob.ar/">INDEC</a>. Según los datos históricos de esta encuesta, en aproximadamente el mismo intervalo de tiempo, la mediana salarial aumentó un 13%.
                                     <br></br>
                                     <br></br>
                                 </p>,
@@ -328,7 +329,7 @@ export default [
                                 props: { ...historic_charts['historic_salary_medians'], xDataKey: 'publish_date', yDataKeys: ['Pesos Argentinos Constantes Ajustados Por Inflación'], currency: 'AR$' },
                                 caption: <p>Serie histórica de salarios en ARS constantes basada en encuestas anteriores de sysarmy.</p>,
                                 description: <p>
-                                    Este gráfico muestra los salarios ajustados a pesos constantes de julio de 2025, es decir, considerando la inflación acumulada en cada período.
+                                    Este gráfico muestra los salarios ajustados a pesos constantes de febrero de 2026, es decir, considerando la inflación acumulada en cada período.
                                     Esto permite comparar el poder adquisitivo real de los salarios a lo largo del tiempo, eliminando el efecto de la inflación.
                                     Un aumento en los valores indica una mejora en el poder adquisitivo real, mientras que una disminución refleja que los salarios, aunque nominalmente puedan haber crecido, no han acompañado el ritmo de la inflación, resultando en una pérdida de capacidad de compra. Para más detalle, ver la <a href="#Metodologia">Metodología</a>.
                                     <br></br>

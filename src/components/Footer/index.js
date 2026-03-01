@@ -22,7 +22,7 @@ class Footer extends Component {
         <div className='footer-bottom'>
           <Container>
             <div className='footer-bottom-left-content'>
-              <p className='footer-bottom-right-content-text'>© <a href='/'>openqube</a>, 2024 Todos los derechos reservados.</p>
+              <p className='footer-bottom-right-content-text'>© <a href='/'>openqube</a>, 2026 Todos los derechos reservados.</p>
             </div>
           </Container>
         </div>
