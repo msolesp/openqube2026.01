@@ -65,9 +65,9 @@ De este Colab se descarga:
 
 ## Segunda Parte - Colab Histórico
 1. Actualizar cotizaciones de dólar en repositorio:
-    * US$ Oficial: actualizar con datos de Bloomberg. En el achivo del repositorio data/currency-*edición_encuesta*.json copiar las últimas cotizaciones.
-    * US$ Blue: descargar archivo evolución de bluelytics. Reemplazar el archivo data/evolution.csv por el actual.
-    * Salario en USS MEP: actualizar con datos de Ámbito. En el achivo del repositorio data/evolucion_mep.csv copiar las últimas cotizaciones.
+    * US$ Oficial: actualizar el archivo con datos de [Bloomberg](https://www.bloomberg.com/markets/api/bulk-time-series/price/USDARS%3ACUR?timeFrame=5_YEAR). En el achivo del repositorio data/currency-*edición_encuesta*.json copiar las últimas cotizaciones.
+    * US$ Blue: descargar archivo evolución de [bluelytics](https://api.bluelytics.com.ar/v2/evolution.csv). Reemplazar el archivo data/evolution.csv por el actual.
+    * Salario en USS MEP: actualizar con datos de [Ámbito](https://www.ambito.com/contenidos/dolar-mep-historico.html). En el achivo del repositorio data/evolucion_mep.csv copiar las últimas cotizaciones.
 
 2. Actualizar IPC acumulado en repositorio:
     * En el achivo del repositorio data/ipc_acumulado_*edición_encuesta*.csv agregar la línea correspondiente a la edición actual, tomando valor de IPC acumulado del mes anterior al que inició la encuesta.
