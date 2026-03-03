@@ -1,5 +1,5 @@
  # Análisis de la encuesta Sysarmy
-Última Actualización: 2025.02
+Última Actualización: 2026.01
 ### Consideraciones para reproducir el análisis realizado con Colab 
 En caso que el lector requiera replicar los resultados, o crear un nuevo análisis para las futuras encuestas, se plantean consideraciones útiles para caso set de datos.
 
@@ -74,7 +74,9 @@ De este Colab se descarga:
 
 3. En primera celda del Colab: agregar a datasets_metadata la metadata de la edición actual y en la misma celda cambiar el final_publish_date.
 
-4. Publicación
+4. Revisar y cambiar los links de git a la edición correspondiente.
+
+5. Publicación
     * 3.1. Exportamos el diccionario chart como charts.pkl para armar documento resumen para GPT.
     * 3.2 Generamos el diccionario para copiar dentro del archivo historic-charts.js del frontend. Copiamos el diccionario para actualizar historic-charts.js.
     * 3.3. Chequeamos que el diccionario que generamos tenga las mismas claves que esperamos tener en historic_charts.js. Las keys de este diccionar io se encuentran en el repositorio data/keys_graficos_historicos_*edición_encuesta*.csv

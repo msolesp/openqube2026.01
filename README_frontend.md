@@ -1,82 +1,49 @@
-
-# Análisis de la encuesta Sysarmy
-## Edición 2023.02 (2023 - 2do semestre).
-
-## Frontend (React)
-
-A continuación se describe las modificaciones que se realizaron en el código y algunas sugerencias: 
-
-- Descarga del código y despliegue en Local
-- Build en Local
-- Deploy en Firebase
-- Gráficos nuevos
-- Dolar ahorro
-- Fuentes de datos (para graficar)
+ # Análisis de la encuesta Sysarmy
+Última Actualización: 2026.01
 
 ## Despliegue en Local (o modo desarrollo)
-
- Desde el github [https://github.com/openqube/openqube-sueldos](https://github.com/openqube/openqube-sueldos) puede seguir las instrucciones.
-
-Una vez descargado o clonado el proyecto, y dentro de la carpeta tipear:
+Una vez descargado o clonado el proyecto, y dentro de la carpeta correr:
 
 ```jsx
 npm install
 npm start
 ```
 
-se abrirá un browser nuevo y podrá interactuar con el código.
-
-## Build en Local
-
-En una primera instancia, le sugerimos que haga un **build** para corrobrar que el código generado funciona (nuevamente esto se detalla en el github).
-
-```jsx
-npm run build
-```
-
- Dentro de la carpeta build (abrir  index.html con live Server→VSC) 
-
-![Pantallazo 06-09-2021 10.24.58.png](images/Pantallazo_06-09-2021_10.24.58.png)
-
-En caso que se vea una pantalla en Blanco,  modificar la línea 5 como se indica en la figura.
-
-## Deploy en Firebase
-
-Seguir las instrucciones de [https://firebase.google.com/?hl=es-419](https://firebase.google.com/?hl=es-419) e instalar los paquetes correspondientes, inicializar firebase init (desde terminal)
-
-![Untitled](images/Untitled.png)
-
-Aquí el paso más importante en lugar de public colocar *build*
-
-![Untitled](images/Untitled%201.png)
-
-y continuar con el proceso. Ante de realizar el firebase deploy, realizar el
-
-```jsx
-npm run build
-```
-
-y luego sí firebase deploy. Se le brindara una url donde se hará el deploy
-
-## Gráficos nuevos
-
-![Untitled](images/Untitled%202.png)
-
-![Untitled](images/Untitled%203.png)
-
-![Untitled](images/Untitled%204.png)
-
-## Dolar ahorro
-
- si al momento de publicar la nueva versión de la encuesta existe un cepo cambiario y  un tipo de cambio desdoblado en oficial/ahorro, agregar la fecha de publicación aquí.
-
-![Untitled](images/Untitled%205.png)
-
-![Untitled](images/Untitled%206.png)
+se abrirá un browser nuevo y se actualizará con cada cambio en la carpeta del proyecto.
 
 ## Fuente de datos
+chats.js y historic-charts.js son los archivos donde deberán colocar el código (JSON) generado desde Colab.
 
-chats.js y historic-charts.js son los archivos donde deberán colocar el código (JSON) generado desde Colab. 
+## Modificaciones en cada nueva edición
 
-![Untitled](images/Untitled%207.png)
+1. [Footer](src/components/Footer/index.js) cambiar el año de todos los derechos reservados
 
+2. [Title](src/components/MainTitle/index.js) cambiar la edición de la encuesta.
+
+3. [index.html](public/index.html) cambiar la edición de la encuesta.
+
+# Modificaciones en página principal [data.js](src/components/Landing/data.js)
+1. Introducción
+    * Sumar edición anterior a informes pasados.
+    * Actualizar fecha de la edición actual.
+
+2. Perfil de Participantes / Experiencia / Años de experiencia
+    * Actualizar link a encuesta anterior
+
+3. Educación / Nivel de estudios alcanzado y estado actual
+    * Actualizar porcentaje de personas que no ha finalizado estudios universitarios.
+
+4. Salarios / Progresión Histórica / Mediana salarial en Argentina
+    * **Salarios en AR$'** Actulizar fechas entre ediciones, el índice de inflación entre esas fechas y el aumento en la mediana salarial.
+    * **Salarios en AR$ constantes ajustados por IPC**  Actualizar mes de los pesos constantes.
+
+5. Género
+    * Chequear y modificar porcentajes de identidades de género menores al 1%.
+    * **Histórico de salarios por género** chequear cuánto gana una mujer cis por cada peso que gana un hombre cis.
+
+6. Ajuste por inflación
+    * Modificar la inflación entre períodos.
+
+7. ¿Qué porcentaje tiene su sueldo dolarizado?
+    * Modificar diferencia respecto a encuesta anterior
+    * Modificar link de encuesta anterior

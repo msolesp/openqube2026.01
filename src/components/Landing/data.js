@@ -318,7 +318,7 @@ export default [
                                 props: { ...historic_charts['historic_salary_medians'], xDataKey: 'publish_date', yDataKeys: ['Pesos Argentinos'], currency: 'AR$' },
                                 caption: <p>Serie histórica de salarios en ARS basada en encuestas anteriores de sysarmy.</p>,
                                 description: <p>
-                                    Desde junio de 2025 hasta enero de 2026 se registró en la República Argentina una inflación de <a target="_blank" rel="noopener noreferrer" href="https://calculadoradeinflacion.com/argentina"> 16%</a> según el <a target="_blank" rel="noopener noreferrer" href="https://www.indec.gob.ar/">INDEC</a>. Según los datos históricos de esta encuesta, en aproximadamente el mismo intervalo de tiempo, la mediana salarial aumentó un 13%.
+                                    Desde junio de 2025 hasta enero de 2026 se registró en la República Argentina una inflación de 19% según el <a target="_blank" rel="noopener noreferrer" href="https://www.indec.gob.ar/">INDEC</a>. Según los datos históricos de esta encuesta, en aproximadamente el mismo intervalo de tiempo, la mediana salarial aumentó un 13%.
                                     <br></br>
                                     <br></br>
                                 </p>,
@@ -329,7 +329,7 @@ export default [
                                 props: { ...historic_charts['historic_salary_medians'], xDataKey: 'publish_date', yDataKeys: ['Pesos Argentinos Constantes Ajustados Por Inflación'], currency: 'AR$' },
                                 caption: <p>Serie histórica de salarios en ARS constantes basada en encuestas anteriores de sysarmy.</p>,
                                 description: <p>
-                                    Este gráfico muestra los salarios ajustados a pesos constantes de febrero de 2026, es decir, considerando la inflación acumulada en cada período.
+                                    Este gráfico muestra los salarios ajustados a pesos constantes de enero de 2026, es decir, considerando la inflación acumulada en cada período.
                                     Esto permite comparar el poder adquisitivo real de los salarios a lo largo del tiempo, eliminando el efecto de la inflación.
                                     Un aumento en los valores indica una mejora en el poder adquisitivo real, mientras que una disminución refleja que los salarios, aunque nominalmente puedan haber crecido, no han acompañado el ritmo de la inflación, resultando en una pérdida de capacidad de compra. Para más detalle, ver la <a href="#Metodologia">Metodología</a>.
                                     <br></br>
@@ -347,29 +347,6 @@ export default [
                                 </div>,
                             },
                             {  // tab
-                                title: 'Salarios en US$ (ahorro)',
-                                component: 'Line', // graph
-                                props: {
-                                    // {"name": "0", "year": 2014, "part": 2, "publish_date": "2015-01-01", "Pesos Argentinos": 14000.0, "D\\u00f3lares Estadounidenses": 1637.0343952619544}
-                                    data: historic_charts['historic_salary_medians'].data
-                                        .reduce((acc, dp) => acc.concat([{ ...dp, 'Dólares Estadounidenses': (hayDolarAhorro.includes(dp.publish_date) ? 0.6 : 1) * dp['Dólares Estadounidenses'] }]), []),
-                                    xDataKey: 'publish_date',
-                                    yDataKeys: ['Dólares Estadounidenses'],
-                                    currency: 'US$'
-                                },
-                                caption: <p>Serie histórica de salarios sobre cotización del dólar ahorro, en Pesos Argentinos.</p>,
-                                description: <div>
-                                    <p>
-                                        Un dato importante a tener en cuenta a la hora de evaluar nuestro sueldo es considerar la capacidad de ahorro.
-                                    </p>
-                                    <p>
-                                        Como en cada entrega de nuestros informes, siempre aparece alguna variación inesperada que puede resultar de interés para el lector.
-                                        En esta oportunidad el desdoblamiento del dólar continúa siendo protagonista, con la particularidad que a diferencia de años anteriores
-                                        existe tanto un cepo cambiario, así como también un precio único (mínimo al día de hoy) para ahorrar en dólares.
-                                    </p>
-                                </div>,
-                            },
-                            {  // tab
                                 title: 'Salarios en US$ (Blue)',
                                 component: 'Line', // graph
                                 props: { ...historic_charts['historic_salary_medians'], xDataKey: 'publish_date', yDataKeys: ['Dólares Estadounidenses Blue'], currency: 'US$' },
@@ -380,8 +357,7 @@ export default [
                                     </p>
                                     <p>
                                         Como en cada entrega de nuestros informes, siempre aparece alguna variación inesperada que puede resultar de interés para el lector.
-                                        En esta oportunidad el desdoblamiento del dólar continúa siendo protagonista, con la particularidad que a diferencia de años anteriores
-                                        existe tanto un cepo cambiario, así como también un precio único (mínimo al día de hoy) para ahorrar en dólares.</p>
+                                        En esta oportunidad el desdoblamiento del dólar continúa siendo protagonista.</p>
                                 </div>,
                             },
                             {  // tab
@@ -390,7 +366,7 @@ export default [
                                 props: { ...historic_charts['historic_salary_medians'], xDataKey: 'publish_date', yDataKeys: ['Dólares Estadounidenses MEP'], currency: 'US$' },
                                 caption: <p>Serie histórica de salarios sobre cotización del dólar MEP, en Pesos Argentinos.</p>,
                                 description: <div>
-                                    <p>A partir de este informe incluimos las medianas salariales en Dólar MEP, ya que hoy en día es el tipo de cambio al que la mayoría de las personas puede acceder
+                                    <p>Incluimos las medianas salariales en Dólar MEP, ya que hoy en día es un tipo de cambio al que la mayoría de las personas puede acceder
                                         fácilmente para convertir sus ingresos en pesos a dólares. Este cálculo se muestra únicamente desde 2020, porque fue a partir de ese
                                         año que los bonos utilizados para esta operatoria comenzaron a ser consistentes y ampliamente aceptados, permitiéndonos contar con una cotización más clara y homogénea.
                                     </p>
@@ -603,7 +579,7 @@ export default [
                                     markNegativeValues: ['Senior', 'Semi-Senior', 'Junior'],
                                     individualNegatives: true,
                                 },
-                                caption: 'Mediana salarial según lenguaje de programación años de experiencia.',
+                                caption: 'Mediana salarial según lenguaje de programación y años de experiencia.',
                                 description: <div>
                                     <p>Se muestra por defecto los lenguajes de programación más utilizadas, cuya cantidad de menciones supere el umbral de 0,5%.</p>
                                     <p>Las medianas en <span style={{ "color": "#AAA", "font-weight": "bold" }}>GRIS</span> no son confiables y deben ser tomadas con cuidado. Para más detalle ver <a href="#Metodologia">Metodología</a>.</p>
@@ -640,7 +616,6 @@ export default [
                 <p>Si bien en este apartado mantuvimos la lógica general del informe de no incluir dentro de los gráficos los conjuntos que tuvieron una representación menor al 1% de la muestra, mencionamos aquellas identidades de género que están subrepresentadas en esta encuesta, hecho que refleja inequidades por múltiples barreras e injusticias sociales. </p>
                 <p>Porcentajes de identidades de género menores al 1%:</p>
                 <ul>
-                    <li>Prefiero no decir {parseFloat(charts['gender_prefiero_no_decir'].data.map(item => item.value) * 100).toFixed(1)}%</li>
                     <li>No Binarie {parseFloat(charts['gender_no_binarie'].data.map(item => item.value) * 100).toFixed(1)}%</li>
                     <li>Queer {parseFloat(charts['gender_queer'].data.map(item => item.value) * 100).toFixed(2)}%</li>
                     <li>Trans {parseFloat(charts['gender_trans'].data.map(item => item.value) * 100).toFixed(2)}%</li>
@@ -701,7 +676,7 @@ export default [
                                     <div>
                                         <br>
                                         </br>
-                                        Media salarial por género y seniority.
+                                        Mediana salarial por género y seniority.
                                     </div>
                                 ),
                                 description: <div>
@@ -775,9 +750,9 @@ export default [
                                     Se observa la evolución salarial por género en pesos argentinos.
                                     <p>
                                     </p>
-                                    Actualmente, por cada peso que gana un hombre cis, una mujer cis gana aproximadamente 83 centavos.
+                                    Actualmente, por cada peso que gana un hombre cis, una mujer cis gana aproximadamente 81 centavos.
                                     <p>
-                                        Al analizar el gráfico, es importante tener en cuenta que el {parseFloat(charts['gender_prefiero_no_decir'].data.map(item => item.value) * 100).toFixed(1)}% de las personas de la muestra prefirieron no decir su género.
+                                        Al analizar el gráfico, es importante tener en cuenta que solo el {parseFloat(charts['gender_prefiero_no_decir'].data.map(item => item.value) * 100).toFixed(1)}% de las personas de la muestra prefirieron no decir su género.
                                     </p>
 
                                 </div>),
@@ -808,7 +783,7 @@ export default [
                                     <p>
                                     </p>
                                     <p>
-                                        Al analizar el gráfico, es importante tener en cuenta que el {parseFloat(charts['gender_prefiero_no_decir'].data.map(item => item.value) * 100).toFixed(1)}% de las personas de la muestra prefirieron no decir su género.
+                                        Al analizar el gráfico, es importante tener en cuenta que solo el {parseFloat(charts['gender_prefiero_no_decir'].data.map(item => item.value) * 100).toFixed(1)}% de las personas de la muestra prefirieron no decir su género.
                                     </p>
 
                                 </div>),
@@ -965,7 +940,7 @@ export default [
                 title: 'Ajuste salarial',
                 data: [
                     {  // section
-                        title: 'Ajustes por inflación 2025',
+                        title: 'Ajustes por inflación',
                         data: [
                             {  // tab
                                 title: '',
@@ -979,11 +954,11 @@ export default [
                                 caption: 'Mediana de porcentaje de ajustes por inflación acumulados por género en los últimos 6 meses.',
                                 description: <>
                                     <p>
-                                        Como contraste, la inflación publicada por el <a href="https://www.indec.gob.ar/" target="_blank" rel="noopener noreferrer">INDEC</a> entre enero y julio de 2025 fue de <strong>15%</strong>.
+                                        Como contraste, la inflación publicada por el <a href="https://www.indec.gob.ar/" target="_blank" rel="noopener noreferrer">INDEC</a> entre junio de 2025 y enero de 2026 fue de <strong>19%</strong>.
                                     </p>
                                     <p>
                                         <small>
-                                            Es importante tomar este numero con ciudado ya que en muchos casos no es posible distinguir si el sueldo está o no dolarizado y posiblemente existan
+                                            Es importante tomar este numero con cuidado ya que en muchos casos no es posible distinguir si el sueldo está o no dolarizado y posiblemente existan
                                             casos donde, por tratarse de un sueldo dolarizado, no hubo ajustes por inflación.
                                         </small>
                                     </p>
@@ -1132,7 +1107,7 @@ export default [
 
                                 },
                                 caption: <p>Porcentaje de personas que tienen su sueldo dolarizado, ya sea de forma parcial o completa, y quienes no lo tienen.</p>,
-                                description: <p>El {parseFloat(charts['porcentaje_sueldo_dolarizado'].data.map(item => item.value) * 100).toFixed(0)}%  de las personas tiene su sueldo dolarizado, al menos de manera parcial. Esto representa una disminución del 2% respecto a la <a href="https://sueldos.openqube.io/encuesta-sueldos-2025.01/" target="_blank" rel="noopener noreferrer">encuesta anterior</a>.</p>,
+                                description: <p>El {parseFloat(charts['porcentaje_sueldo_dolarizado'].data.map(item => item.value) * 100).toFixed(0)}%  de las personas tiene su sueldo dolarizado, al menos de manera parcial. Esto representa una disminución del 2% respecto a la <a href="https://sueldos.openqube.io/encuesta-sueldos-2025.02/#Trabajo-Tipos-de-contrato-Que-porcentaje-tiene-su-sueldo-dolarizado" target="_blank" rel="noopener noreferrer">encuesta anterior</a>.</p>,
                             },
                         ],
                     },
@@ -1205,7 +1180,7 @@ export default [
                         ],
                     },
                     {  // section
-                        title: 'Porcentajes de Ajuste por Inflación a la fecha (2025)',
+                        title: 'Porcentajes de Ajuste por Inflación a la fecha',
                         data: [
                             {  // tab
                                 title: '',
@@ -1216,10 +1191,9 @@ export default [
                                 </div>,
                                 description: (
                                     <div>
-                                        Inflación acumulada en 2024: <strong>15%</strong>.
                                         <p>
                                             <small>
-                                                Es importante tomar este número con ciudado, ya que en muchos casos no es posible distinguir si el sueldo está dolarizado o no y posiblemente existan
+                                                Es importante tomar este número con cuidado, ya que en muchos casos no es posible distinguir si el sueldo está dolarizado o no y posiblemente existan
                                                 casos donde, al tratarse de un sueldo dolarizado, no sufrió ajustes por inflación.
                                             </small>
                                         </p>
@@ -1420,8 +1394,8 @@ export default [
                 </p>
                 <p>
                     Por ejemplo, para los datasets de entre <i>2016</i> a <i>2018</i>, los salarios podrían estar dados en valores brutos o netos según cada respuesta.
-                    En ese caso, lo que se hizo fue convertir los valores netos a brutos, sumándoles el procentaje correspondiente a las cargas sociales.
-                    Por supuesto que existe cierto grado de error, puesto que no consideramos el distorsivo Impuesto a las Ganancias, ya que sería impracticable dado la complijidad de su cálculo y la falta de información sobre posibles deducciones.
+                    En ese caso, lo que se hizo fue convertir los valores netos a brutos, sumándoles el porcentaje correspondiente a las cargas sociales.
+                    Por supuesto que existe cierto grado de error, puesto que no consideramos el distorsivo Impuesto a las Ganancias, ya que sería impracticable dado la complejidad de su cálculo y la falta de información sobre posibles deducciones.
                 </p>
                 <h4>Representaciones Gráficas</h4>
                 <h5>Escalas</h5>
