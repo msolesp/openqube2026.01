@@ -1,0 +1,31 @@
+Base de Datos,Porcentaje
+MySQL,30
+PostgreSQL,29
+Microsoft SQL Server,27
+MongoDB,15
+MariaDB,12
+Redis,12
+Oracle,10
+Amazon DynamoDB,9
+SQLite,9
+Amazon RDS/Aurora,8
+Microsoft Azure,8
+ElasticSearch,8
+Google Cloud Storage,7
+Amazon Redshift,3
+HANA,2
+IBM Db2,2
+Sybase,1
+Teradata,1
+Neo4j,1
+Cassandra,1
+Apache Hive,1
+Informix,1
+ProxySQL,0
+Percona Server,0
+Amazon HBase,0
+Snowflake,0
+Percona XtraDB Cluster,0
+Percona XtraBackup,0
+Firebird,0
+BigQuery,0

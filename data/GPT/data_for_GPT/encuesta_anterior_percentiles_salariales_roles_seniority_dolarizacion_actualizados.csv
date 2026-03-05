@@ -1,10 +1,19 @@
 ﻿Rol,Seniority,p50,Confianza,Dolarización
-Consultant,Junior,1396675.7579159085,Baja,No dolarizado
-AI Engineer,Senior,5530887.236807902,Baja,Dolarizado
-Networking,Semi-Senior,1132635.8201195737,Baja,Dolarizado
-AI Engineer,Junior,4686280.705744736,Baja,Dolarizado
-Storage / Backup,Senior,2435167.0132570835,Alta,Dolarizado
-VP / C-Level,Junior,3172512.932154926,Alta,No dolarizado
-Recruiter,Junior,3143578.051176241,Baja,Dolarizado
-Scrum Master,Junior,2497461.98336366,Baja,No dolarizado
-Staff Engineer,Senior,5946338.055627761,Baja,Dolarizado
+UX Designer,Senior,3787849,Baja,Dolarizado
+UX Designer,Senior,3288942,Baja,No dolarizado
+UX Designer,Semi-Senior,2819976,Baja,Dolarizado
+UX Designer,Semi-Senior,2279281,Baja,No dolarizado
+VP / C-Level,Senior,5699100,Baja,No dolarizado
+VP / C-Level,Senior,6518207,Baja,Dolarizado
+UX Designer,Junior,2023572,Baja,No dolarizado
+DBA (Database Administrator),Senior,5914780,Baja,No dolarizado
+DBA (Database Administrator),Semi-Senior,3584715,Baja,No dolarizado
+UX Writer,Semi-Senior,3088830,Baja,No dolarizado
+UX Writer,Senior,3553964,Alta,No dolarizado
+DBA (Database Administrator),Junior,2270320,Alta,No dolarizado
+UX Designer,Junior,1723053,Alta,Dolarizado
+UX Researcher,Semi-Senior,4385302,Alta,Dolarizado
+Administrativo,Senior,1648969,Baja,No dolarizado
+Docente,Semi-Senior,3029084,Alta,No dolarizado
+NOC Analyst,Semi-Senior,2933131,Alta,No dolarizado
+Functional Analyst,Senior,1918996,Alta,Dolarizado

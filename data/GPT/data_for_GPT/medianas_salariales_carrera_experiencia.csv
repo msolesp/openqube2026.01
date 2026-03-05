@@ -1,274 +1,493 @@
 ﻿Carrera,Seniority,p50,Confianza
-Licenciatura en Sociología,Junior,,Alta
-Licenciatura en Sociología,Semi-Senior,3091000.0,Alta
-Licenciatura en Sociología,Senior,,Alta
-Tecnicatura superior en redes,Junior,,Alta
-Tecnicatura superior en redes,Semi-Senior,,Alta
-Tecnicatura superior en redes,Senior,,Alta
-Licenciatura en Geografía,Junior,,Alta
-Licenciatura en Geografía,Semi-Senior,,Alta
-Licenciatura en Geografía,Senior,,Alta
-Licenciatura en Relaciones Internacionales,Junior,,Alta
-Licenciatura en Relaciones Internacionales,Semi-Senior,,Alta
-Licenciatura en Relaciones Internacionales,Senior,,Alta
-Ingeniería Textil,Junior,,Alta
-Ingeniería Textil,Semi-Senior,,Alta
-Ingeniería Textil,Senior,,Alta
-Desarrollo de Software,Junior,,Alta
-Desarrollo de Software,Semi-Senior,,Alta
-Desarrollo de Software,Senior,,Alta
-Ingeniería en Telecomunicaciones,Junior,,Alta
-Ingeniería en Telecomunicaciones,Semi-Senior,,Alta
-Ingeniería en Telecomunicaciones,Senior,3750000.0,Baja
-Diseño Gráfico,Junior,1800000.0,Alta
-Diseño Gráfico,Semi-Senior,2486500.0,Baja
-Diseño Gráfico,Senior,3086486.5,Baja
-Analista Programador Universitario,Junior,1013000.0,Baja
-Analista Programador Universitario,Semi-Senior,2191000.0,Alta
-Analista Programador Universitario,Senior,4100000.0,Baja
-Arquitectura,Junior,,Alta
-Arquitectura,Semi-Senior,1869000.0,Alta
-Arquitectura,Senior,,Alta
-Ingeniería Mecánica,Junior,,Alta
-Ingeniería Mecánica,Semi-Senior,,Alta
-Ingeniería Mecánica,Senior,,Alta
-Medicina,Junior,,Alta
-Medicina,Semi-Senior,3000000.0,Alta
-Medicina,Senior,,Alta
-Contador/a Público/a,Junior,,Alta
-Contador/a Público/a,Semi-Senior,,Alta
-Contador/a Público/a,Senior,,Alta
-Confidencial,Junior,,Alta
-Confidencial,Semi-Senior,,Alta
-Confidencial,Senior,,Alta
-Sistemas de Información,Junior,,Alta
-Sistemas de Información,Semi-Senior,,Alta
-Sistemas de Información,Senior,2959586.5,Baja
-Licenciatura en Tecnologías de la Información,Junior,,Alta
-Licenciatura en Tecnologías de la Información,Semi-Senior,,Alta
-Licenciatura en Tecnologías de la Información,Senior,4850000.0,Baja
-Ingeniería Mecatrónica,Junior,,Alta
-Ingeniería Mecatrónica,Semi-Senior,2710000.0,Baja
-Ingeniería Mecatrónica,Senior,,Alta
-Tecnicatura en Informática,Junior,,Alta
-Tecnicatura en Informática,Semi-Senior,,Alta
-Tecnicatura en Informática,Senior,3000000.0,Baja
-Tecnicatura en Sistemas,Junior,,Alta
-Tecnicatura en Sistemas,Semi-Senior,2100000.0,Baja
-Tecnicatura en Sistemas,Senior,2167000.0,Baja
-Licenciatura en Informática,Junior,,Alta
-Licenciatura en Informática,Semi-Senior,1458000.0,Baja
-Licenciatura en Informática,Senior,4000000.0,Baja
-Tecnicatura Superior en Programación,Junior,1343750.0,Baja
-Tecnicatura Superior en Programación,Semi-Senior,2534500.0,Baja
-Tecnicatura Superior en Programación,Senior,3750000.0,Baja
-Ingeniería Civil,Junior,,Alta
-Ingeniería Civil,Semi-Senior,,Alta
-Ingeniería Civil,Senior,,Alta
-Profesorado General,Junior,,Alta
-Profesorado General,Semi-Senior,,Alta
-Profesorado General,Senior,,Alta
-Tecnicatura Superior en Sistemas Informáticos,Junior,1600000.0,Baja
-Tecnicatura Superior en Sistemas Informáticos,Semi-Senior,3500000.0,Baja
-Tecnicatura Superior en Sistemas Informáticos,Senior,2200000.0,Baja
-Licenciatura en Ciencias Físicas,Junior,2183684.0,Baja
-Licenciatura en Ciencias Físicas,Semi-Senior,3700000.0,Baja
-Licenciatura en Ciencias Físicas,Senior,,Alta
-Certificaciones y Bootcamp,Junior,,Alta
-Certificaciones y Bootcamp,Semi-Senior,,Alta
-Certificaciones y Bootcamp,Senior,4650000.0,Alta
-Tecnico,Junior,,Alta
-Tecnico,Semi-Senior,,Alta
-Tecnico,Senior,,Alta
-Licenciatura en Marketing,Junior,,Alta
-Licenciatura en Marketing,Semi-Senior,4100000.0,Baja
-Licenciatura en Marketing,Senior,,Alta
-Maestria en Data Mining,Junior,,Alta
-Maestria en Data Mining,Semi-Senior,,Alta
-Maestria en Data Mining,Senior,,Alta
-Ingeniería Agronómica,Junior,,Alta
-Ingeniería Agronómica,Semi-Senior,,Alta
-Ingeniería Agronómica,Senior,,Alta
-Tecnicatura Electrónica,Junior,,Alta
-Tecnicatura Electrónica,Semi-Senior,,Alta
-Tecnicatura Electrónica,Senior,3000000.0,Baja
-Analista de Sistemas,Junior,1495000.0,Baja
-Analista de Sistemas,Semi-Senior,2586000.0,Baja
-Analista de Sistemas,Senior,3696535.0,Alta
-Ingeniería en Computación,Junior,,Alta
-Ingeniería en Computación,Semi-Senior,1900000.0,Baja
-Ingeniería en Computación,Senior,3908000.0,Baja
-Licenciatura en Psicología,Junior,,Alta
-Licenciatura en Psicología,Semi-Senior,2142000.0,Alta
-Licenciatura en Psicología,Senior,,Alta
-Ingeniería Química,Junior,,Alta
-Ingeniería Química,Semi-Senior,,Alta
-Ingeniería Química,Senior,,Alta
-Lic en estadistica,Junior,,Alta
-Lic en estadistica,Semi-Senior,,Alta
-Lic en estadistica,Senior,,Alta
-Turismo ,Junior,,Alta
-Turismo ,Semi-Senior,,Alta
-Turismo ,Senior,,Alta
-Maestría en Administración de Negocios,Junior,,Alta
-Maestría en Administración de Negocios,Semi-Senior,,Alta
-Maestría en Administración de Negocios,Senior,,Alta
-Tec Sup en Redes Informaticas,Junior,,Alta
-Tec Sup en Redes Informaticas,Semi-Senior,,Alta
-Tec Sup en Redes Informaticas,Senior,,Alta
-Técnique Secundario en Programación,Junior,,Alta
-Técnique Secundario en Programación,Semi-Senior,,Alta
-Técnique Secundario en Programación,Senior,1438747.0,Baja
-Licenciatura en Ciencias Matemáticas,Junior,,Alta
-Licenciatura en Ciencias Matemáticas,Semi-Senior,,Alta
-Licenciatura en Ciencias Matemáticas,Senior,,Alta
-Diseño Multimedial,Junior,,Alta
-Diseño Multimedial,Semi-Senior,1996350.0,Baja
-Diseño Multimedial,Senior,1898525.0,Alta
-Ingeniería en Sistemas,Junior,1900000.0,Baja
-Ingeniería en Sistemas,Semi-Senior,3200000.0,Alta
-Ingeniería en Sistemas,Senior,4876000.0,Alta
-Técnicatura en Electromecánica,Junior,,Alta
-Técnicatura en Electromecánica,Semi-Senior,,Alta
-Técnicatura en Electromecánica,Senior,,Alta
-Licenciatura en Ciencias Químicas,Junior,,Alta
-Licenciatura en Ciencias Químicas,Semi-Senior,,Alta
-Licenciatura en Ciencias Químicas,Senior,,Alta
-Licenciatura en Relaciones del Trabajo,Junior,,Alta
-Licenciatura en Relaciones del Trabajo,Semi-Senior,,Alta
-Licenciatura en Relaciones del Trabajo,Senior,,Alta
-Licenciatura en Filosofía,Junior,,Alta
-Licenciatura en Filosofía,Semi-Senior,,Alta
-Licenciatura en Filosofía,Senior,,Alta
-Licenciatura en Astronomía,Junior,,Alta
-Licenciatura en Astronomía,Semi-Senior,,Alta
-Licenciatura en Astronomía,Senior,,Alta
-"Analista de gestion de tecnologia informatica es mi titulo preciso, con 38 materias de ingenieria en sistemas",Junior,,Alta
-"Analista de gestion de tecnologia informatica es mi titulo preciso, con 38 materias de ingenieria en sistemas",Semi-Senior,,Alta
-"Analista de gestion de tecnologia informatica es mi titulo preciso, con 38 materias de ingenieria en sistemas",Senior,,Alta
-Licenciatura en Comercialización,Junior,,Alta
-Licenciatura en Comercialización,Semi-Senior,,Alta
-Licenciatura en Comercialización,Senior,3400000.0,Alta
-Tecnico sup en adm de la produccion grafica,Junior,,Alta
-Tecnico sup en adm de la produccion grafica,Semi-Senior,,Alta
-Tecnico sup en adm de la produccion grafica,Senior,,Alta
-Tecnicatura en Ciberseguridad,Junior,,Alta
-Tecnicatura en Ciberseguridad,Semi-Senior,1900000.0,Alta
-Tecnicatura en Ciberseguridad,Senior,,Alta
-Licenciatura en Gestión de Tecnología,Junior,,Alta
-Licenciatura en Gestión de Tecnología,Semi-Senior,,Alta
-Licenciatura en Gestión de Tecnología,Senior,1693059.0,Baja
-Bachiller contable,Junior,,Alta
-Bachiller contable,Semi-Senior,,Alta
-Bachiller contable,Senior,,Alta
-Traductorado,Junior,,Alta
-Traductorado,Semi-Senior,,Alta
-Traductorado,Senior,2300000.0,Baja
-Ingeniería en Software,Junior,,Alta
-Ingeniería en Software,Semi-Senior,,Alta
-Ingeniería en Software,Senior,6200000.0,Baja
-Diseño de Imagen y Sonido,Junior,,Alta
-Diseño de Imagen y Sonido,Semi-Senior,,Alta
-Diseño de Imagen y Sonido,Senior,2071000.0,Baja
-Master en Geociencias en el exterior,Junior,,Alta
-Master en Geociencias en el exterior,Semi-Senior,,Alta
-Master en Geociencias en el exterior,Senior,,Alta
+Psicología Social,Senior,,Alta
+Psicología Social,Junior,,Alta
+Psicología Social,Semi-Senior,,Alta
+Certificaciones de redes CCNA y de Google Cloud Architect,Senior,,Alta
+Certificaciones de redes CCNA y de Google Cloud Architect,Junior,,Alta
+Certificaciones de redes CCNA y de Google Cloud Architect,Semi-Senior,,Alta
+Hr,Senior,,Alta
+Hr,Junior,,Alta
+Hr,Semi-Senior,,Alta
+Analista de Sistemas,Senior,3900000,Alta
+Analista de Sistemas,Junior,1350000,Baja
+Analista de Sistemas,Semi-Senior,2175000,Alta
+Ingeniería de Petróleo ,Senior,,Alta
+Ingeniería de Petróleo ,Junior,,Alta
+Ingeniería de Petróleo ,Semi-Senior,,Alta
+Relaciones del Trabajo,Senior,3398500,Alta
+Relaciones del Trabajo,Junior,,Alta
+Relaciones del Trabajo,Semi-Senior,,Alta
+Computador Universitario,Senior,,Alta
+Computador Universitario,Junior,,Alta
+Computador Universitario,Semi-Senior,,Alta
+Tecnicatura universitaria en Redes Informáticas ,Senior,,Alta
+Tecnicatura universitaria en Redes Informáticas ,Junior,,Alta
+Tecnicatura universitaria en Redes Informáticas ,Semi-Senior,,Alta
+Telecomunicaciones,Senior,934500,Baja
 Telecomunicaciones,Junior,,Alta
-Telecomunicaciones,Semi-Senior,,Alta
-Telecomunicaciones,Senior,4446000.0,Baja
-Licenciatura en Seguridad,Junior,,Alta
-Licenciatura en Seguridad,Semi-Senior,,Alta
-Licenciatura en Seguridad,Senior,,Alta
-Tecnoco superior en adm de la produccion grafica,Junior,,Alta
-Tecnoco superior en adm de la produccion grafica,Semi-Senior,,Alta
-Tecnoco superior en adm de la produccion grafica,Senior,,Alta
-Ciencias Económicas,Junior,,Alta
-Ciencias Económicas,Semi-Senior,,Alta
-Ciencias Económicas,Senior,,Alta
-Creativo publicitario,Junior,,Alta
-Creativo publicitario,Semi-Senior,,Alta
-Creativo publicitario,Senior,,Alta
-Profesor de Ciencias Sagradas,Junior,,Alta
-Profesor de Ciencias Sagradas,Semi-Senior,,Alta
-Profesor de Ciencias Sagradas,Senior,,Alta
-Tecnicatura en gastronomía ,Junior,,Alta
-Tecnicatura en gastronomía ,Semi-Senior,,Alta
-Tecnicatura en gastronomía ,Senior,,Alta
-Tec. Sup. Innovación con tecnologías 4.0,Junior,,Alta
-Tec. Sup. Innovación con tecnologías 4.0,Semi-Senior,,Alta
-Tec. Sup. Innovación con tecnologías 4.0,Senior,,Alta
-Recursos Humanos,Junior,,Alta
-Recursos Humanos,Semi-Senior,,Alta
-Recursos Humanos,Senior,3561000.0,Alta
-Ingeniería Electrónica,Junior,,Alta
-Ingeniería Electrónica,Semi-Senior,3200000.0,Baja
-Ingeniería Electrónica,Senior,4116975.5,Alta
-Ingeniería en Informática,Junior,2648000.0,Alta
-Ingeniería en Informática,Semi-Senior,4403701.285,Alta
-Ingeniería en Informática,Senior,4293000.0,Alta
+Telecomunicaciones,Semi-Senior,3350000,Baja
+Bachiller en Comunicaciones,Senior,,Alta
+Bachiller en Comunicaciones,Junior,,Alta
+Bachiller en Comunicaciones,Semi-Senior,,Alta
+QA Tester,Senior,,Alta
+QA Tester,Junior,,Alta
+QA Tester,Semi-Senior,,Alta
+Geofísica,Senior,,Alta
+Geofísica,Junior,,Alta
+Geofísica,Semi-Senior,3225000,Alta
+Tecnicatura Superior en Programación,Senior,4577773,Baja
+Tecnicatura Superior en Programación,Junior,1550000,Alta
+Tecnicatura Superior en Programación,Semi-Senior,2450000,Baja
+Musica,Senior,,Alta
+Musica,Junior,,Alta
+Musica,Semi-Senior,,Alta
+Analista Programador. Universidad Nacional de La Pampa!,Senior,,Alta
+Analista Programador. Universidad Nacional de La Pampa!,Junior,,Alta
+Analista Programador. Universidad Nacional de La Pampa!,Semi-Senior,,Alta
+Licenciatura en Letras,Senior,,Alta
+Licenciatura en Letras,Junior,,Alta
+Licenciatura en Letras,Semi-Senior,,Alta
+Licenciatura en Tecnología Digital,Senior,,Alta
+Licenciatura en Tecnología Digital,Junior,,Alta
+Licenciatura en Tecnología Digital,Semi-Senior,,Alta
+Licenciatura en gerencia de empresas,Senior,,Alta
+Licenciatura en gerencia de empresas,Junior,,Alta
+Licenciatura en gerencia de empresas,Semi-Senior,,Alta
+Diseño Gráfico (Universidad Nacional de Misiones) Diplomatura en diseño UX/UI (UTN),Senior,,Alta
+Diseño Gráfico (Universidad Nacional de Misiones) Diplomatura en diseño UX/UI (UTN),Junior,,Alta
+Diseño Gráfico (Universidad Nacional de Misiones) Diplomatura en diseño UX/UI (UTN),Semi-Senior,,Alta
+Licenciatura en Ciencias de la Comunicación,Senior,2764277,Baja
+Licenciatura en Ciencias de la Comunicación,Junior,,Alta
+Licenciatura en Ciencias de la Comunicación,Semi-Senior,,Alta
+Analista de Computación,Senior,4500000,Baja
 Analista de Computación,Junior,,Alta
 Analista de Computación,Semi-Senior,,Alta
-Analista de Computación,Senior,5500000.0,Baja
-Desarrollo Web,Junior,1691500.0,Alta
-Desarrollo Web,Semi-Senior,,Alta
-Desarrollo Web,Senior,,Alta
-Licenciatura en Ciencias de la Computación,Junior,2750000.0,Baja
-Licenciatura en Ciencias de la Computación,Semi-Senior,4500000.0,Alta
-Licenciatura en Ciencias de la Computación,Senior,5350000.0,Alta
+Ingenieria en Redes y Comunicaciones,Senior,,Alta
+Ingenieria en Redes y Comunicaciones,Junior,,Alta
+Ingenieria en Redes y Comunicaciones,Semi-Senior,,Alta
+Tec sup en innovación con tecnologías 4.0,Senior,,Alta
+Tec sup en innovación con tecnologías 4.0,Junior,,Alta
+Tec sup en innovación con tecnologías 4.0,Semi-Senior,,Alta
+Letras,Senior,,Alta
+Letras,Junior,,Alta
+Letras,Semi-Senior,,Alta
+Antropología,Senior,,Alta
+Antropología,Junior,,Alta
+Antropología,Semi-Senior,,Alta
+Marketing ,Senior,,Alta
+Marketing ,Junior,,Alta
+Marketing ,Semi-Senior,,Alta
+Licenciatura en tecnologías digitales,Senior,,Alta
+Licenciatura en tecnologías digitales,Junior,,Alta
+Licenciatura en tecnologías digitales,Semi-Senior,,Alta
+Licenciatura en Psicología,Senior,3310000,Baja
+Licenciatura en Psicología,Junior,,Alta
+Licenciatura en Psicología,Semi-Senior,,Alta
+Licenciada (y doctora) en Astronomía,Senior,,Alta
+Licenciada (y doctora) en Astronomía,Junior,,Alta
+Licenciada (y doctora) en Astronomía,Semi-Senior,,Alta
+Técnicatura Universitaria en Programación,Senior,,Alta
+Técnicatura Universitaria en Programación,Junior,,Alta
+Técnicatura Universitaria en Programación,Semi-Senior,,Alta
+CPN,Senior,,Alta
+CPN,Junior,,Alta
+CPN,Semi-Senior,,Alta
+Lic Recursos Humanos ,Senior,,Alta
+Lic Recursos Humanos ,Junior,,Alta
+Lic Recursos Humanos ,Semi-Senior,,Alta
+arte,Senior,,Alta
+arte,Junior,,Alta
+arte,Semi-Senior,,Alta
+Ingeniería en Telecomunicaciones,Senior,4900000,Baja
+Ingeniería en Telecomunicaciones,Junior,,Alta
+Ingeniería en Telecomunicaciones,Semi-Senior,,Alta
+Diseño Industrial,Senior,2025000,Alta
+Diseño Industrial,Junior,1800000,Alta
+Diseño Industrial,Semi-Senior,1684122,Baja
+Tecnico Universitario en Programacion,Senior,,Alta
+Tecnico Universitario en Programacion,Junior,,Alta
+Tecnico Universitario en Programacion,Semi-Senior,,Alta
+Licenciatura en Gestión de la Información,Senior,4779235,Alta
+Licenciatura en Gestión de la Información,Junior,,Alta
+Licenciatura en Gestión de la Información,Semi-Senior,,Alta
+Licenciatura en Relaciones Internacionales,Senior,,Alta
+Licenciatura en Relaciones Internacionales,Junior,,Alta
+Licenciatura en Relaciones Internacionales,Semi-Senior,,Alta
+Ingeniería en Software,Senior,3800000,Baja
+Ingeniería en Software,Junior,,Alta
+Ingeniería en Software,Semi-Senior,,Alta
+Diseño industrial,Senior,,Alta
+Diseño industrial,Junior,,Alta
+Diseño industrial,Semi-Senior,,Alta
+TS Seguridad Laboral,Senior,,Alta
+TS Seguridad Laboral,Junior,,Alta
+TS Seguridad Laboral,Semi-Senior,,Alta
+BACHILLER,Senior,,Alta
+BACHILLER,Junior,,Alta
+BACHILLER,Semi-Senior,,Alta
+Tec. sup. En Innovación con Tecnologías 4.0,Senior,,Alta
+Tec. sup. En Innovación con Tecnologías 4.0,Junior,,Alta
+Tec. sup. En Innovación con Tecnologías 4.0,Semi-Senior,,Alta
+Autodidacta,Senior,,Alta
+Autodidacta,Junior,,Alta
+Autodidacta,Semi-Senior,,Alta
+Docencia,Senior,3250000,Baja
+Docencia,Junior,,Alta
+Docencia,Semi-Senior,2775861,Alta
+Artes,Senior,,Alta
+Artes,Junior,,Alta
+Artes,Semi-Senior,,Alta
+Tecnicatura Superior en Sistemas Informáticos,Senior,4500000,Baja
+Tecnicatura Superior en Sistemas Informáticos,Junior,,Alta
+Tecnicatura Superior en Sistemas Informáticos,Semi-Senior,3200000,Baja
+Licenciatura en Redes,Senior,,Alta
+Licenciatura en Redes,Junior,,Alta
+Licenciatura en Redes,Semi-Senior,,Alta
+Licenciatura en Fisica,Senior,,Alta
+Licenciatura en Fisica,Junior,,Alta
+Licenciatura en Fisica,Semi-Senior,,Alta
+Ingeniería en Informática,Senior,5600000,Alta
+Ingeniería en Informática,Junior,2996250,Baja
+Ingeniería en Informática,Semi-Senior,3451650,Baja
+Tecnico superior electrónica ,Senior,,Alta
+Tecnico superior electrónica ,Junior,,Alta
+Tecnico superior electrónica ,Semi-Senior,,Alta
+Ingeniería de Gas,Senior,,Alta
+Ingeniería de Gas,Junior,,Alta
+Ingeniería de Gas,Semi-Senior,,Alta
+Ninguna,Senior,,Alta
+Ninguna,Junior,,Alta
+Ninguna,Semi-Senior,,Alta
+Licenciatura en gestión de Recursos Humanos,Senior,,Alta
+Licenciatura en gestión de Recursos Humanos,Junior,,Alta
+Licenciatura en gestión de Recursos Humanos,Semi-Senior,,Alta
+Ciberseguridad,Senior,1603500,Baja
+Ciberseguridad,Junior,,Alta
+Ciberseguridad,Semi-Senior,1800000,Baja
+Licenciatura en Física,Senior,,Alta
+Licenciatura en Física,Junior,,Alta
+Licenciatura en Física,Semi-Senior,,Alta
+Licenciatura en Sociología,Senior,,Alta
+Licenciatura en Sociología,Junior,,Alta
+Licenciatura en Sociología,Semi-Senior,,Alta
+Tecnicatura Superior en Análisis de Sistemas,Senior,4697149,Baja
+Tecnicatura Superior en Análisis de Sistemas,Junior,1935500,Baja
+Tecnicatura Superior en Análisis de Sistemas,Semi-Senior,,Alta
+Ingeniería Electromecánica,Senior,,Alta
+Ingeniería Electromecánica,Junior,,Alta
+Ingeniería Electromecánica,Semi-Senior,,Alta
+tecnico superior en redes informaticas,Senior,,Alta
+tecnico superior en redes informaticas,Junior,,Alta
+tecnico superior en redes informaticas,Semi-Senior,,Alta
+licenciada en Sociología,Senior,,Alta
+licenciada en Sociología,Junior,,Alta
+licenciada en Sociología,Semi-Senior,,Alta
+Ingeniería en Computación,Senior,6100500,Baja
+Ingeniería en Computación,Junior,2254024,Baja
+Ingeniería en Computación,Semi-Senior,3500000,Baja
+Licenciatura en Administración,Senior,3812000,Baja
+Licenciatura en Administración,Junior,3000000,Alta
+Licenciatura en Administración,Semi-Senior,2000000,Baja
+Tecnicatura superior Maestro Mayor de Obras,Senior,,Alta
+Tecnicatura superior Maestro Mayor de Obras,Junior,,Alta
+Tecnicatura superior Maestro Mayor de Obras,Semi-Senior,,Alta
+Licenciatura en Ciencias Antropológicas,Senior,,Alta
+Licenciatura en Ciencias Antropológicas,Junior,,Alta
+Licenciatura en Ciencias Antropológicas,Semi-Senior,,Alta
+Tecnicatura Superior en Tecnologías de la Información,Senior,,Alta
+Tecnicatura Superior en Tecnologías de la Información,Junior,,Alta
+Tecnicatura Superior en Tecnologías de la Información,Semi-Senior,,Alta
+Tecnico mecanico,Senior,,Alta
+Tecnico mecanico,Junior,,Alta
+Tecnico mecanico,Semi-Senior,,Alta
+Licenciatura en Ciencias Biológicas,Senior,,Alta
+Licenciatura en Ciencias Biológicas,Junior,,Alta
+Licenciatura en Ciencias Biológicas,Semi-Senior,,Alta
+"Tecnicatura en Programación de Videojuegos, de la UNAHUR, que no aparece en el desplegable, qué mal :(",Senior,,Alta
+"Tecnicatura en Programación de Videojuegos, de la UNAHUR, que no aparece en el desplegable, qué mal :(",Junior,,Alta
+"Tecnicatura en Programación de Videojuegos, de la UNAHUR, que no aparece en el desplegable, qué mal :(",Semi-Senior,,Alta
+Tecnicatura Universitaria en Tecnologias de la Informacion,Senior,,Alta
+Tecnicatura Universitaria en Tecnologias de la Informacion,Junior,,Alta
+Tecnicatura Universitaria en Tecnologias de la Informacion,Semi-Senior,,Alta
+Psicologia,Senior,,Alta
+Psicologia,Junior,,Alta
+Psicologia,Semi-Senior,,Alta
+Licenciatura en Ciencias de la Computación,Senior,5500000,Baja
+Licenciatura en Ciencias de la Computación,Junior,2900000,Baja
+Licenciatura en Ciencias de la Computación,Semi-Senior,5090000,Baja
+No aplica ,Senior,,Alta
+No aplica ,Junior,,Alta
+No aplica ,Semi-Senior,,Alta
+Licenciatura en Biotecnologia,Senior,,Alta
+Licenciatura en Biotecnologia,Junior,,Alta
+Licenciatura en Biotecnologia,Semi-Senior,,Alta
+tec sup en soporte a infraestructuras,Senior,,Alta
+tec sup en soporte a infraestructuras,Junior,,Alta
+tec sup en soporte a infraestructuras,Semi-Senior,,Alta
+"Técnico universitario en Redes, Lic. en Tecnología Educativa, Prof. en disciplinas industriales",Senior,,Alta
+"Técnico universitario en Redes, Lic. en Tecnología Educativa, Prof. en disciplinas industriales",Junior,,Alta
+"Técnico universitario en Redes, Lic. en Tecnología Educativa, Prof. en disciplinas industriales",Semi-Senior,,Alta
+Licenciatura en Ciencia de Datos,Senior,3000000,Baja
+Licenciatura en Ciencia de Datos,Junior,,Alta
+Licenciatura en Ciencia de Datos,Semi-Senior,3300000,Baja
+Lic Artes electronicas,Senior,,Alta
+Lic Artes electronicas,Junior,,Alta
+Lic Artes electronicas,Semi-Senior,,Alta
+Licenciatura en tecnologías digitales ,Senior,,Alta
+Licenciatura en tecnologías digitales ,Junior,,Alta
+Licenciatura en tecnologías digitales ,Semi-Senior,,Alta
+Lic. En Psicología ,Senior,,Alta
+Lic. En Psicología ,Junior,,Alta
+Lic. En Psicología ,Semi-Senior,,Alta
+Economía,Senior,4350000,Baja
+Economía,Junior,,Alta
+Economía,Semi-Senior,,Alta
+Tecnicatura en Sistemas,Senior,2600000,Alta
+Tecnicatura en Sistemas,Junior,,Alta
+Tecnicatura en Sistemas,Semi-Senior,,Alta
+"Lic en Psicología, Diplomatura en RRHH",Senior,,Alta
+"Lic en Psicología, Diplomatura en RRHH",Junior,,Alta
+"Lic en Psicología, Diplomatura en RRHH",Semi-Senior,,Alta
+Licenciatura en Ciencias Matematicas,Senior,,Alta
+Licenciatura en Ciencias Matematicas,Junior,,Alta
+Licenciatura en Ciencias Matematicas,Semi-Senior,,Alta
+Fotografía,Senior,,Alta
+Fotografía,Junior,,Alta
+Fotografía,Semi-Senior,,Alta
+Licenciatura en Diseño Gráfico,Senior,,Alta
+Licenciatura en Diseño Gráfico,Junior,,Alta
+Licenciatura en Diseño Gráfico,Semi-Senior,,Alta
+Licenciatura en Sistemas,Senior,,Alta
+Licenciatura en Sistemas,Junior,,Alta
+Licenciatura en Sistemas,Semi-Senior,,Alta
+Actuario,Senior,,Alta
+Actuario,Junior,,Alta
+Actuario,Semi-Senior,,Alta
+Licenciatura en Ciencias Matemáticas,Senior,,Alta
+Licenciatura en Ciencias Matemáticas,Junior,,Alta
+Licenciatura en Ciencias Matemáticas,Semi-Senior,,Alta
+ curso  programador full stack / armado y reparacion de pc (titulo sacar a marzo),Senior,,Alta
+ curso  programador full stack / armado y reparacion de pc (titulo sacar a marzo),Junior,,Alta
+ curso  programador full stack / armado y reparacion de pc (titulo sacar a marzo),Semi-Senior,,Alta
+Ingenieria Geologica,Senior,,Alta
+Ingenieria Geologica,Junior,,Alta
+Ingenieria Geologica,Semi-Senior,,Alta
+Tecnicatura Universitaria en Web,Senior,,Alta
+Tecnicatura Universitaria en Web,Junior,,Alta
+Tecnicatura Universitaria en Web,Semi-Senior,,Alta
+Marketing y Recursos Humanos,Senior,,Alta
+Marketing y Recursos Humanos,Junior,,Alta
+Marketing y Recursos Humanos,Semi-Senior,,Alta
+Tecnico en Emergencias Medicas,Senior,,Alta
+Tecnico en Emergencias Medicas,Junior,,Alta
+Tecnico en Emergencias Medicas,Semi-Senior,,Alta
+Bootcamp,Senior,,Alta
+Bootcamp,Junior,,Alta
+Bootcamp,Semi-Senior,,Alta
+Licenciado en música,Senior,,Alta
+Licenciado en música,Junior,,Alta
+Licenciado en música,Semi-Senior,,Alta
+Tecnicatura en Infraestructura,Senior,,Alta
+Tecnicatura en Infraestructura,Junior,,Alta
+Tecnicatura en Infraestructura,Semi-Senior,,Alta
+licenciatura en ciencias fisicas,Senior,,Alta
+licenciatura en ciencias fisicas,Junior,,Alta
+licenciatura en ciencias fisicas,Semi-Senior,,Alta
+Sociología,Senior,,Alta
+Sociología,Junior,,Alta
+Sociología,Semi-Senior,,Alta
+Tecnicatura en administración ,Senior,,Alta
+Tecnicatura en administración ,Junior,,Alta
+Tecnicatura en administración ,Semi-Senior,,Alta
+Licenciatura en Ciencia Política,Senior,,Alta
+Licenciatura en Ciencia Política,Junior,,Alta
+Licenciatura en Ciencia Política,Semi-Senior,,Alta
+Tecnicatura superior en Desarrollo de software,Senior,,Alta
+Tecnicatura superior en Desarrollo de software,Junior,,Alta
+Tecnicatura superior en Desarrollo de software,Semi-Senior,,Alta
+Licenciatura en Publicidad,Senior,,Alta
+Licenciatura en Publicidad,Junior,,Alta
+Licenciatura en Publicidad,Semi-Senior,,Alta
+Tecnicatura en Informática,Senior,3200000,Baja
+Tecnicatura en Informática,Junior,1668000,Baja
+Tecnicatura en Informática,Semi-Senior,2275000,Alta
+Ingeniería Electrónica,Senior,4900000,Alta
+Ingeniería Electrónica,Junior,,Alta
+Ingeniería Electrónica,Semi-Senior,3317061,Baja
+Licenciatura en Ciencias Físicas - Doctorado en Ciencias Físicas,Senior,,Alta
+Licenciatura en Ciencias Físicas - Doctorado en Ciencias Físicas,Junior,,Alta
+Licenciatura en Ciencias Físicas - Doctorado en Ciencias Físicas,Semi-Senior,,Alta
+Hice cursos para entrar en el rubro. ,Senior,,Alta
+Hice cursos para entrar en el rubro. ,Junior,,Alta
+Hice cursos para entrar en el rubro. ,Semi-Senior,,Alta
+Ingeniería Mecatrónica,Senior,,Alta
+Ingeniería Mecatrónica,Junior,,Alta
+Ingeniería Mecatrónica,Semi-Senior,4306935,Baja
+Ingeniería Biomédica,Senior,2300000,Baja
+Ingeniería Biomédica,Junior,,Alta
+Ingeniería Biomédica,Semi-Senior,3745900,Baja
+Diseño gráfico y Tecnica en Programacion,Senior,,Alta
+Diseño gráfico y Tecnica en Programacion,Junior,,Alta
+Diseño gráfico y Tecnica en Programacion,Semi-Senior,,Alta
+Doctor en Ciencias Informáticas + Postdoc en AI + Doctorado en Filosofía de la IA (en curso),Senior,,Alta
+Doctor en Ciencias Informáticas + Postdoc en AI + Doctorado en Filosofía de la IA (en curso),Junior,,Alta
+Doctor en Ciencias Informáticas + Postdoc en AI + Doctorado en Filosofía de la IA (en curso),Semi-Senior,,Alta
+Ingeniería Civil,Senior,,Alta
+Ingeniería Civil,Junior,,Alta
+Ingeniería Civil,Semi-Senior,,Alta
+Cs Amb,Senior,,Alta
+Cs Amb,Junior,,Alta
+Cs Amb,Semi-Senior,,Alta
+Tecnicatura Universitaria en Desarrollo Web,Senior,,Alta
+Tecnicatura Universitaria en Desarrollo Web,Junior,,Alta
+Tecnicatura Universitaria en Desarrollo Web,Semi-Senior,,Alta
+Diseño Gráfico FADU y Postrgrado en Usabilidad y Accesibilidad UTN,Senior,,Alta
+Diseño Gráfico FADU y Postrgrado en Usabilidad y Accesibilidad UTN,Junior,,Alta
+Diseño Gráfico FADU y Postrgrado en Usabilidad y Accesibilidad UTN,Semi-Senior,,Alta
+Lic. en Publicidad,Senior,,Alta
+Lic. en Publicidad,Junior,,Alta
+Lic. en Publicidad,Semi-Senior,,Alta
+2 carreras Univ Lic analisis de sistemas y adm de empresas ,Senior,,Alta
+2 carreras Univ Lic analisis de sistemas y adm de empresas ,Junior,,Alta
+2 carreras Univ Lic analisis de sistemas y adm de empresas ,Semi-Senior,,Alta
+Traducción/interpretación español-inglés ,Senior,,Alta
+Traducción/interpretación español-inglés ,Junior,,Alta
+Traducción/interpretación español-inglés ,Semi-Senior,,Alta
+Licenciatura en Análisis de Sistemas,Senior,4267238,Baja
+Licenciatura en Análisis de Sistemas,Junior,,Alta
+Licenciatura en Análisis de Sistemas,Semi-Senior,,Alta
+Doctorado en Física,Senior,,Alta
+Doctorado en Física,Junior,,Alta
+Doctorado en Física,Semi-Senior,,Alta
+Tecnicatura Electrónica,Senior,1698515,Baja
+Tecnicatura Electrónica,Junior,,Alta
+Tecnicatura Electrónica,Semi-Senior,,Alta
+Licenciatura en Informática,Senior,5000000,Baja
+Licenciatura en Informática,Junior,,Alta
+Licenciatura en Informática,Semi-Senior,1700000,Baja
+Realizador en Cine y Televesión,Senior,,Alta
+Realizador en Cine y Televesión,Junior,,Alta
+Realizador en Cine y Televesión,Semi-Senior,,Alta
+Ingeniería Industrial,Senior,6000000,Baja
 Ingeniería Industrial,Junior,,Alta
-Ingeniería Industrial,Semi-Senior,2500000.0,Baja
-Ingeniería Industrial,Senior,3600000.0,Baja
-Licenciatura en Comunicación,Junior,,Alta
-Licenciatura en Comunicación,Semi-Senior,1747670.62,Alta
-Licenciatura en Comunicación,Senior,2521840.5,Baja
-Licenciatura en Geología,Junior,,Alta
-Licenciatura en Geología,Semi-Senior,,Alta
-Licenciatura en Geología,Senior,,Alta
-Publicidad,Junior,,Alta
-Publicidad,Semi-Senior,,Alta
-Publicidad,Senior,,Alta
-Licenciatura en Ciencias Políticas,Junior,,Alta
-Licenciatura en Ciencias Políticas,Semi-Senior,,Alta
-Licenciatura en Ciencias Políticas,Senior,,Alta
-Música,Junior,,Alta
-Música,Semi-Senior,,Alta
-Música,Senior,,Alta
-Métodos Cuantitativos,Junior,,Alta
-Métodos Cuantitativos,Semi-Senior,,Alta
-Métodos Cuantitativos,Senior,,Alta
-Analista en informática,Junior,,Alta
-Analista en informática,Semi-Senior,,Alta
-Analista en informática,Senior,,Alta
-Tecnicatura en Computación,Junior,,Alta
-Tecnicatura en Computación,Semi-Senior,,Alta
-Tecnicatura en Computación,Senior,2475000.0,Baja
-Licenciatura en Sistemas,Junior,3275000.0,Baja
-Licenciatura en Sistemas,Semi-Senior,2824000.0,Baja
-Licenciatura en Sistemas,Senior,3850000.0,Alta
+Ingeniería Industrial,Semi-Senior,4010372,Baja
+Ingeniería Química,Senior,,Alta
+Ingeniería Química,Junior,,Alta
+Ingeniería Química,Semi-Senior,,Alta
+Ingeniería Mecánica,Senior,,Alta
+Ingeniería Mecánica,Junior,,Alta
+Ingeniería Mecánica,Semi-Senior,2827068,Alta
+Lic. en Psicologia,Senior,,Alta
+Lic. en Psicologia,Junior,,Alta
+Lic. en Psicologia,Semi-Senior,,Alta
+Técnico superior en recursos humanos ,Senior,,Alta
+Técnico superior en recursos humanos ,Junior,,Alta
+Técnico superior en recursos humanos ,Semi-Senior,,Alta
+Ingeniería en Sonido,Senior,,Alta
 Ingeniería en Sonido,Junior,,Alta
 Ingeniería en Sonido,Semi-Senior,,Alta
-Ingeniería en Sonido,Senior,,Alta
-Tecnicatura Universitaria en Redes Informáticas,Junior,,Alta
-Tecnicatura Universitaria en Redes Informáticas,Semi-Senior,,Alta
-Tecnicatura Universitaria en Redes Informáticas,Senior,,Alta
-Licenciatura en Relaciones Laborales,Junior,,Alta
-Licenciatura en Relaciones Laborales,Semi-Senior,,Alta
-Licenciatura en Relaciones Laborales,Senior,,Alta
-Licenciatura en Ciencia de Datos,Junior,2643000.0,Baja
-Licenciatura en Ciencia de Datos,Semi-Senior,,Alta
-Licenciatura en Ciencia de Datos,Senior,2183466.0,Baja
-Licenciatura en Administración de Empresas,Junior,1800000.0,Baja
-Licenciatura en Administración de Empresas,Semi-Senior,1792989.5,Baja
-Licenciatura en Administración de Empresas,Senior,3900000.0,Baja
-Licenciatura en Economía,Junior,,Alta
-Licenciatura en Economía,Semi-Senior,,Alta
-Licenciatura en Economía,Senior,,Alta
-Licenciatura en Negocios Digitales,Junior,,Alta
-Licenciatura en Negocios Digitales,Semi-Senior,,Alta
-Licenciatura en Negocios Digitales,Senior,,Alta
-Maestria en Dirección Estratégica y Tecnológica,Junior,,Alta
-Maestria en Dirección Estratégica y Tecnológica,Semi-Senior,,Alta
-Maestria en Dirección Estratégica y Tecnológica,Senior,,Alta
-Diseño Industrial,Junior,,Alta
-Diseño Industrial,Semi-Senior,,Alta
-Diseño Industrial,Senior,3308500.0,Baja
+Tecnicatura superior en desarrollo de software ,Senior,,Alta
+Tecnicatura superior en desarrollo de software ,Junior,,Alta
+Tecnicatura superior en desarrollo de software ,Semi-Senior,,Alta
+Maestria en RRHH,Senior,,Alta
+Maestria en RRHH,Junior,,Alta
+Maestria en RRHH,Semi-Senior,,Alta
+Tecnicatura en Computación,Senior,2875500,Baja
+Tecnicatura en Computación,Junior,,Alta
+Tecnicatura en Computación,Semi-Senior,,Alta
+Tecnicatura en Desarrollo Web,Senior,,Alta
+Tecnicatura en Desarrollo Web,Junior,,Alta
+Tecnicatura en Desarrollo Web,Semi-Senior,,Alta
+Licenciatura en Psicologia,Senior,,Alta
+Licenciatura en Psicologia,Junior,,Alta
+Licenciatura en Psicologia,Semi-Senior,,Alta
+Contaduría,Senior,,Alta
+Contaduría,Junior,,Alta
+Contaduría,Semi-Senior,3188205,Baja
+Lic. Diseño e innovación  de moda,Senior,,Alta
+Lic. Diseño e innovación  de moda,Junior,,Alta
+Lic. Diseño e innovación  de moda,Semi-Senior,,Alta
+Diseño Gráfico,Senior,2650000,Baja
+Diseño Gráfico,Junior,1824000,Baja
+Diseño Gráfico,Semi-Senior,2636000,Baja
+Diseño de Imágen y Sonido,Senior,,Alta
+Diseño de Imágen y Sonido,Junior,,Alta
+Diseño de Imágen y Sonido,Semi-Senior,2152987,Baja
+Analista Universitario de Sistemas,Senior,6473500,Alta
+Analista Universitario de Sistemas,Junior,,Alta
+Analista Universitario de Sistemas,Semi-Senior,3100000,Baja
+Licenciatura en Tecnología Multimedial,Senior,,Alta
+Licenciatura en Tecnología Multimedial,Junior,,Alta
+Licenciatura en Tecnología Multimedial,Semi-Senior,,Alta
+Analista Programador,Senior,3182349,Baja
+Analista Programador,Junior,,Alta
+Analista Programador,Semi-Senior,,Alta
+Inteligencia Artificial,Senior,,Alta
+Inteligencia Artificial,Junior,,Alta
+Inteligencia Artificial,Semi-Senior,,Alta
+Tecnicatura en Programación,Senior,3600000,Baja
+Tecnicatura en Programación,Junior,1398000,Baja
+Tecnicatura en Programación,Semi-Senior,2325000,Alta
+Ingeniería en Sistemas de Información,Senior,5038374,Alta
+Ingeniería en Sistemas de Información,Junior,2150000,Baja
+Ingeniería en Sistemas de Información,Semi-Senior,3000000,Baja
+Licenciatura en Sistemas de Información,Senior,4232451,Alta
+Licenciatura en Sistemas de Información,Junior,2225000,Baja
+Licenciatura en Sistemas de Información,Semi-Senior,2500000,Alta
+Ciencias Sociales,Senior,,Alta
+Ciencias Sociales,Junior,,Alta
+Ciencias Sociales,Semi-Senior,,Alta
+Administración de Empresas mención RRHH,Senior,,Alta
+Administración de Empresas mención RRHH,Junior,,Alta
+Administración de Empresas mención RRHH,Semi-Senior,,Alta
+"Tecnico Superior en Redes Informaticas, En TECLAB (siempre que respondo nunca esta en la lista)",Senior,,Alta
+"Tecnico Superior en Redes Informaticas, En TECLAB (siempre que respondo nunca esta en la lista)",Junior,,Alta
+"Tecnico Superior en Redes Informaticas, En TECLAB (siempre que respondo nunca esta en la lista)",Semi-Senior,,Alta
+Física,Senior,,Alta
+Física,Junior,,Alta
+Física,Semi-Senior,,Alta
+Licenciatura en gastronomía ,Senior,,Alta
+Licenciatura en gastronomía ,Junior,,Alta
+Licenciatura en gastronomía ,Semi-Senior,,Alta
+Arquitectura,Senior,,Alta
+Arquitectura,Junior,,Alta
+Arquitectura,Semi-Senior,,Alta
+Psicología / Diplomatura en UX Research ,Senior,,Alta
+Psicología / Diplomatura en UX Research ,Junior,,Alta
+Psicología / Diplomatura en UX Research ,Semi-Senior,,Alta
+Tecnicatura en electricidad,Senior,,Alta
+Tecnicatura en electricidad,Junior,,Alta
+Tecnicatura en electricidad,Semi-Senior,,Alta
+Tecnico Superior en Computacion y Redes de Datos,Senior,,Alta
+Tecnico Superior en Computacion y Redes de Datos,Junior,,Alta
+Tecnico Superior en Computacion y Redes de Datos,Semi-Senior,,Alta
+Licenciatura en Gestión de Información,Senior,,Alta
+Licenciatura en Gestión de Información,Junior,,Alta
+Licenciatura en Gestión de Información,Semi-Senior,,Alta
+Analista Programador Universitario,Senior,2600000,Baja
+Analista Programador Universitario,Junior,,Alta
+Analista Programador Universitario,Semi-Senior,,Alta
+tecnicatura en post produccion audiovisual,Senior,,Alta
+tecnicatura en post produccion audiovisual,Junior,,Alta
+tecnicatura en post produccion audiovisual,Semi-Senior,,Alta
+Diplomatura en UX con estándares de usabilidad y accesibilidad,Senior,,Alta
+Diplomatura en UX con estándares de usabilidad y accesibilidad,Junior,,Alta
+Diplomatura en UX con estándares de usabilidad y accesibilidad,Semi-Senior,,Alta
+técnico universitario en redes y telecomunicaciones,Senior,,Alta
+técnico universitario en redes y telecomunicaciones,Junior,,Alta
+técnico universitario en redes y telecomunicaciones,Semi-Senior,,Alta
+Comercio Internacional,Senior,,Alta
+Comercio Internacional,Junior,,Alta
+Comercio Internacional,Semi-Senior,,Alta
+Gastronomía,Senior,,Alta
+Gastronomía,Junior,,Alta
+Gastronomía,Semi-Senior,,Alta
+Licenciado en Periodismo ,Senior,,Alta
+Licenciado en Periodismo ,Junior,,Alta
+Licenciado en Periodismo ,Semi-Senior,,Alta
+Física ,Senior,,Alta
+Física ,Junior,,Alta
+Física ,Semi-Senior,,Alta
+Diseño Multimedial,Senior,3300000,Baja
+Diseño Multimedial,Junior,,Alta
+Diseño Multimedial,Semi-Senior,,Alta
